@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """ETLR-L0: linguagem declarativa mínima, sem avaliação de código externo.
 
 Sete campos definem um experimento em um domínio; não determinam toda a
