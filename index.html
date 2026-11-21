@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="ETLR — programa independente de pesquisa filosófica e lógico-matemática sobre individuação, relações, fronteiras, transformações e continuidade organizacional. Acesso ao Volume I e ao motor experimental ETLR-MO-02.">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="ETLR — Álgebra Espaço-Temporal Lógico-Relacional">
+  <meta property="og:description" content="Volume I, doze capítulos, formalização e motor contextual experimental ETLR-MO-02.">
+  <meta property="og:url" content="https://aksanafr.github.io/ETLR/">
+  <link rel="canonical" href="https://aksanafr.github.io/ETLR/">
+  <link rel="sitemap" type="application/xml" href="sitemap.xml">
+  <title>ETLR — Álgebra Espaço-Temporal Lógico-Relacional</title>
+  <style>
+    :root {color-scheme:light dark;--bg:#f8faf9;--fg:#17332f;--muted:#546863;--line:#d4dfda;--panel:#fff;--accent:#175f53;--pale:#e5f1ec;--focus:#e39f27}
+    @media (prefers-color-scheme: dark) {:root{--bg:#0c1917;--fg:#e6f3ee;--muted:#b6c8c2;--line:#33453f;--panel:#132520;--accent:#90d8c1;--pale:#1d3c33;--focus:#e9b454}}
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{margin:0;background:var(--bg);color:var(--fg);font:1rem/1.65 system-ui,-apple-system,"Segoe UI",sans-serif}
+    a{color:var(--accent);text-underline-offset:.18em}
+    a:focus-visible{outline:3px solid var(--focus);outline-offset:4px}
+    .skip{position:absolute;left:-9999px;top:1rem;background:var(--panel);padding:.5rem 1rem;z-index:10}
+    .skip:focus{left:1rem}
+    .container{max-width:1100px;margin:0 auto;padding:0 1.5rem}
+    header{border-bottom:1px solid var(--line);background:var(--panel)}
+    .header{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;padding:1.1rem 0}
+    .brand{font-weight:800;letter-spacing:.07em;text-decoration:none;font-size:1.1rem}
+    nav ul{display:flex;gap:.6rem 1.5rem;list-style:none;margin:0;padding:0;flex-wrap:wrap}
+    nav a{text-decoration:none;font-size:.92rem;font-weight:600}
+    main{padding-bottom:3rem}
+    .hero{padding:4.3rem 0 3.4rem}
+    .eyebrow{font-size:.83rem;font-weight:750;color:var(--accent);letter-spacing:.13em;text-transform:uppercase}
+    h1{font-family:Georgia,serif;font-size:clamp(2.3rem,5.5vw,4.3rem);line-height:1.14;max-width:850px;margin:.7rem 0 1.2rem;letter-spacing:-.025em}
+    .lead{font-size:clamp(1.06rem,1.7vw,1.25rem);max-width:850px;color:var(--muted);margin-bottom:1.8rem}
+    .actions{display:flex;gap:.8rem;flex-wrap:wrap}
+    .button{display:inline-flex;justify-content:center;align-items:center;padding:.75rem 1.2rem;border:1px solid var(--accent);border-radius:.45rem;font-weight:700;text-decoration:none}
+    .button.primary{background:var(--accent);color:var(--bg)}
+    .button.secondary{background:transparent;color:var(--accent)}
+    section{padding:2rem 0;border-top:1px solid var(--line)}
+    h2{font-family:Georgia,serif;font-size:clamp(1.5rem,3vw,2rem);line-height:1.3;margin:.1rem 0 .8rem}
+    h3{margin:.2rem 0 .5rem}
+    .note{color:var(--muted);max-width:850px}
+    .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
+    .panel{background:var(--panel);border:1px solid var(--line);border-radius:.65rem;padding:1.2rem 1.3rem}
+    .panel p{margin:.4rem 0 .8rem}
+    .panel p:last-child{margin-bottom:0}
+    .pill{display:inline-block;background:var(--pale);color:var(--fg);padding:.2rem .6rem;border-radius:2rem;font-size:.8rem;font-weight:700}
+    .chapter-list{list-style:none;margin:1.5rem 0 0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.7rem}
+    .chapter-list a{display:flex;align-items:flex-start;gap:.9rem;background:var(--panel);border:1px solid var(--line);border-radius:.5rem;padding:.8rem 1rem;min-height:5rem;text-decoration:none;line-height:1.45}
+    .chapter-list a:hover,.panel:hover{border-color:var(--accent)}
+    .chapter-id{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;white-space:nowrap;font-size:.78rem;font-weight:750;padding-top:.12rem}
+    .arrow{margin-left:auto}
+    .footer{padding:1.7rem 0;border-top:1px solid var(--line);color:var(--muted);font-size:.91rem}
+    .footer-inner{display:flex;flex-wrap:wrap;justify-content:space-between;gap:1rem}
+    @media(max-width:730px){.grid,.chapter-list{grid-template-columns:1fr}.hero{padding:3rem 0 2.5rem}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+  </style>
+</head>
+<body>
+  <a class="skip" href="#conteudo">Ir para o conteúdo principal</a>
+  <header><div class="container header">
+    <a href="./" class="brand" aria-label="ETLR, página inicial">ETLR</a>
+    <nav aria-label="Navegação principal"><ul>
+      <li><a href="#pesquisa">Pesquisa</a></li>
+      <li><a href="#volume">Volume I</a></li>
+      <li><a href="#motor">Motor experimental</a></li>
+      <li><a href="#direitos">Direitos e versões</a></li>
+    </ul></nav>
+  </div></header>
+  <main id="conteudo" class="container">
+    <div class="hero">
+      <p class="eyebrow">Programa independente de investigação</p>
+      <h1>Álgebra Espaço-Temporal Lógico-Relacional</h1>
+      <p class="lead">A ETLR investiga como indivíduos e organizações se constituem, estabelecem relações e fronteiras, transformam suas configurações e conservam ou perdem continuidade em diferentes contextos e escalas.</p>
+      <div class="actions">
+        <a class="button primary" href="ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html">Ler o Volume I</a>
+        <a class="button secondary" href="https://github.com/AksanaFR/ETLR/tree/main/experiments/ETLR-MO-02">Explorar o motor ETLR-MO-02</a>
+      </div>
+    </div>
+    <section id="pesquisa" aria-labelledby="pesquisa-titulo">
+      <h2 id="pesquisa-titulo">Um programa de pesquisa, não uma teoria concluída</h2>
+      <p class="note">A investigação combina análise filosófica, modelos lógico-matemáticos, critérios de admissibilidade e ensaios computacionais. Distingue a constituição interna de uma organização de sua manifestação observável e estuda condições de individuação, transformação, composição e continuidade. Hipóteses, resultados formais condicionais e testes finitos têm estatutos científicos diferentes.</p>
+      <div class="grid">
+        <div class="panel"><h3>Constituição e fronteiras</h3><p>Como identificar uma unidade, suas relações internas e externas e suas interfaces com o ambiente?</p></div>
+        <div class="panel"><h3>Dinâmica e continuidade</h3><p>Que transformações são admissíveis e quais condições sustentam, alteram ou interrompem uma organização?</p></div>
+      </div>
+    </section>
+    <section id="volume" aria-labelledby="volume-titulo">
+      <span class="pill">Edição candidata EDIT-02 R4</span>
+      <h2 id="volume-titulo">Volume I · Constituição, fronteira e continuidade do indivíduo</h2>
+      <p class="note">Os doze capítulos estão reunidos em um único documento HTML. Os links abaixo abrem a seção correspondente do manuscrito; não representam páginas individuais nem uma edição definitivamente homologada.</p>
+      <ol class="chapter-list">
+<li><a href="ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html#c0"><span class="chapter-id">ETLR–00</span><span>Âncora de coerência e projeto da próxima etapa</span><span class="arrow" aria-hidden="true">↗</span></a></li>
+<li><a href="ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html#c1"><span class="chapter-id">ETLR–01</span><span>Dualidade interna/externa, indivíduo, ambiente, campos e escalas</span><span class="arrow" aria-hidden="true">↗</span></a></li>
+<li><a href="ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html#c2"><span class="chapter-id">ETLR–02</span><span>Axiomas de fronteira, composição e continuidade</span><span class="arrow" aria-hidden="true">↗</span></a></li>
+<li><a href="ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html#c3"><span class="chapter-id">ETLR–03</span><span>Gramática formal e linguagem relacional</span><span class="arrow" aria-hidden="true">↗</span></a></li>
+<li><a href="ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html#c4"><span class="chapter-id">ETLR–04</span><span>Semântica operacional, invariantes e transformações entre domínios</span><span class="arrow" aria-hidden="true">↗</span></a></li>
+<li><a href="ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html#c5"><span class="chapter-id">ETLR–05</span><span>Dinâmica dos campos relacionais, sensibilidade, contração e secção organizacional</span><span class="arrow" aria-hidden="true">↗</span></a></li>
+<li><a href="ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html#c6"><span class="chapter-id">ETLR–06</span><span>Modelos discriminantes, provas de conservação e limites da universalidade</span><span class="arrow" aria-hidden="true">↗</span></a></li>
+<li><a href="ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html#c7"><span class="chapter-id">ETLR–07</span><span>Invariantes gerais, correspondências entre domínios e conservação das transformações</span><span class="arrow" aria-hidden="true">↗</span></a></li>
+<li><a href="ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html#c8"><span class="chapter-id">ETLR–08</span><span>Álgebra das fronteiras, interfaces e composição polar</span><span class="arrow" aria-hidden="true">↗</span></a></li>
+<li><a href="ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html#c9"><span class="chapter-id">ETLR–09</span><span>Individuação, sincronização, secção e constituição de organizações multiescalares</span><span class="arrow" aria-hidden="true">↗</span></a></li>
+<li><a href="ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html#c10"><span class="chapter-id">ETLR–10</span><span>Constituição sustentada, autogeração e continuidade organizacional</span><span class="arrow" aria-hidden="true">↗</span></a></li>
+<li><a href="ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html#c11"><span class="chapter-id">ETLR–11</span><span>Álgebra dos ciclos constitutivos, fechamento organizacional e verificação da autogeração</span><span class="arrow" aria-hidden="true">↗</span></a></li>
+      </ol>
+      <p><a href="ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html">Abrir o manuscrito completo</a></p>
+    </section>
+    <section id="motor" aria-labelledby="motor-titulo">
+      <span class="pill">Protótipo experimental v0.1</span>
+      <h2 id="motor-titulo">ETLR-MO-02 · Motor contextual lógico-relacional</h2>
+      <p class="note">Implementação experimental de um ciclo de investigação contextual — constituir, confrontar, reconstituir e retornar — com linguagem declarativa ETLR-L0, casos de teste e análise de reparação e reprodução funcional condicionada. O protótipo não demonstra autogeração integral nem universalidade da álgebra.</p>
+      <div class="grid">
+        <article class="panel"><h3>Arquitetura e ensaio</h3><p>Conheça a delimitação relacional, a operação do limite contextual, as representações e a reentrada.</p><p><a href="https://github.com/AksanaFR/ETLR/blob/main/experiments/ETLR-MO-02/ARQUITETURA_RELACIONAL.md">Ler a arquitetura relacional</a></p></article>
+        <article class="panel"><h3>Artigo e implementação</h3><p>Leia a formalização, examine as referências e reproduza os ensaios a partir do repositório.</p><p><a href="https://github.com/AksanaFR/ETLR/blob/main/experiments/ETLR-MO-02/ARTIGO_EXPERIMENTAL_v0_1.md">Ler o artigo v0.1</a> · <a href="https://github.com/AksanaFR/ETLR/tree/main/experiments/ETLR-MO-02">Ver código e testes</a></p></article>
+      </div>
+    </section>
+    <section id="direitos" aria-labelledby="direitos-titulo">
+      <h2 id="direitos-titulo">Versões, atribuição e direitos</h2>
+      <p class="note">O Volume I é apresentado como edição candidata. Seu texto autoral e figuras originais estão sob <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt-br">CC BY-NC-ND 4.0</a>, nos termos da <a href="https://github.com/AksanaFR/ETLR/blob/main/LICENSE">licença do repositório</a>. O código-fonte e os exemplos executáveis do ETLR-MO-02 possuem <a href="https://github.com/AksanaFR/ETLR/blob/main/experiments/ETLR-MO-02/LICENSE-MIT">licença MIT</a>; essa licença não se estende automaticamente aos textos científicos.</p>
+      <p class="note">Identificação acadêmica: <a href="https://orcid.org/0009-0002-5522-6982">ORCID 0009-0002-5522-6982</a>. As referências e a documentação estão disponíveis no <a href="https://github.com/AksanaFR/ETLR">repositório ETLR</a>. Não foi informado DOI definitivo para esta edição.</p>
+    </section>
+  </main>
+  <footer class="footer"><div class="container footer-inner"><span>ETLR · Pesquisa independente · Material em desenvolvimento</span><span><a href="https://github.com/AksanaFR/ETLR">GitHub</a> · <a href="sitemap.xml">Sitemap</a></span></div></footer>
+</body>
+</html>
