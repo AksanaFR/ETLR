@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Executa suíte, grava resultados e resumo verificável em UTF-8 JSON."""
 from pathlib import Path
 import unittest, json, hashlib, time, sys, io
