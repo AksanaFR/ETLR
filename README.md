@@ -36,7 +36,9 @@ A obra é um **programa de pesquisa em desenvolvimento**, não uma teoria univer
 
 ## Acesso à obra
 
-A edição pública do Volume I será disponibilizada aqui **após a conclusão da revisão científica, editorial, de acessibilidade e de privacidade**. O link de leitura será acrescentado quando o arquivo final estiver presente no repositório.
+A **edição candidata EDIT-02 R4** já está disponível para leitura no repositório. Trata-se de uma versão em revisão, **não da edição definitiva homologada**.
+
+📖 **[Ler o Volume I da ETLR — edição candidata](ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html)**
 
 Os documentos históricos, as transcrições privadas e os relatórios internos de auditoria **não fazem parte desta distribuição pública**.
 
@@ -67,3 +69,9 @@ Para propostas de uso, adaptação ou republicação não abrangidas pela licen�
 ---
 
 *ETLR — pesquisa independente. Esta página descreve uma obra em revisão editorial e não constitui anúncio de depósito, certificação de resultados ou publicação já realizada.*
+
+### Acessar a obra
+
+📚 **[Ir para o Volume I — Constituição, fronteira e continuidade do indivíduo](ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html)**
+
+*Edição candidata EDIT-02 R4; sujeita à revisão editorial final.*
