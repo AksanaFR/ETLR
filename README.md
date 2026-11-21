@@ -78,3 +78,20 @@ A contribuição proposta pela ETLR não reside na reivindicação de originalid
 📚 **[Ir para o Volume I — Constituição, fronteira e continuidade do indivíduo](ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html)**
 
 *Edição candidata EDIT-02 R4; sujeita à revisão editorial final.*
+*Disclaimer, Nota de escopo científico — Aplicações generativas
+
+*A Álgebra Espaço-Temporal Lógico-Relacional (ETLR) não se apresenta como uma teoria generativa, tampouco tem como finalidade imediata fundamentar a construção de sistemas generativos.
+
+*Entretanto, sua investigação sobre constituição, relações, transformação, história e continuidade organizacional abre possibilidades para estudos futuros sobre os processos históricos e recursivos de construção intelectual.
+
+*Nesse contexto, a ETLR pode contribuir para identificar e formalizar condições, estruturas e padrões relacionados à elaboração intelectual, inclusive quando esta envolve retomadas, reconstruções e transformações sucessivas de conhecimentos anteriores.
+
+*Essas possíveis aplicações constituem desdobramentos investigativos, não resultados universais já demonstrados nem finalidades necessárias da presente obra.
+
+## Trabalhos científicos derivados da ETLR — Volume I
+
+| Trabalho derivado | Núcleo do Volume I | Público acadêmico |
+|---|---|---|
+| **Fundamentos da individuação lógico-relacional** | ETLR-00 a ETLR-03 | Filosofia da ciência, ontologia e filosofia dos sistemas |
+| **Composição, interfaces e projeção entre escalas** | ETLR-06 a ETLR-09 | Matemática aplicada, teoria dos sistemas e ciência da complexidade |
+| **Continuidade, fechamento e reparabilidade organizacional** | ETLR-10 e ETLR-11 | Biologia teórica, sistemas autônomos e inteligência artificial |
