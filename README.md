@@ -34,6 +34,16 @@ O texto distingue:
 
 A obra é um **programa de pesquisa em desenvolvimento**, não uma teoria universal demonstrada nem uma implementação de software pronta para uso.
 
+## ETLR-MO-02 — Motor contextual lógico-relacional (experimental)
+
+O projeto disponibiliza uma **implementação experimental executável** do ciclo de investigação *Constituir → Confrontar → Reconstituir → Retornar*, acompanhada de linguagem declarativa ETLR-L0, ensaios automatizados e discussão de reprodução funcional condicionada.
+
+- **[Acessar o motor e o guia de execução](experiments/ETLR-MO-02/README.md)**
+- **[Arquitetura relacional e suas funções](experiments/ETLR-MO-02/ARQUITETURA_RELACIONAL.md)**
+- **[Artigo técnico-experimental v0.1](experiments/ETLR-MO-02/ARTIGO_EXPERIMENTAL_v0_1.md)**
+
+Os exemplos examinam limites contextuais, manifestações, reentrada e reprodução de componentes *dentro de um modelo sintético*, sem alegar autogeração universal ou validação empírica da ETLR. A licença de conteúdo do Volume I **não se transfere automaticamente ao software**; consulte [o aviso específico de direitos](experiments/ETLR-MO-02/NOTA_DE_DIREITOS.md).
+
 ## Acesso à obra
 
 A **edição candidata EDIT-02 R4** já está disponível para leitura no repositório. Trata-se de uma versão em revisão, **não da edição definitiva homologada**.
