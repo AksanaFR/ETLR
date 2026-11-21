@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Uso: python -m etlr_contextual exemplos/01_simples.etlr"""
 import sys,json
 from pathlib import Path
