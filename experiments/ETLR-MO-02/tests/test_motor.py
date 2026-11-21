@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Regressões reproduzíveis e controles negativos ETLR-MO-02."""
 import unittest
 from dataclasses import replace
