@@ -325,7 +325,7 @@ O trabalho presente oferece um candidato à integração dessas questões em um 
 
 > O motor contextual ETLR-MO-02 reproduz sua **configuração funcional** e repara uma **perda unitária delimitada** em uma rede artificial de três capacidades, sob receitas e recursos fornecidos. Esse resultado é compatível, de modo condicionado, com os problemas de constituição, admissibilidade, transformação, continuidade e fechamento examinados no Volume I. O modelo **não** demonstra, por si, autogeração constitutiva da organização inteira, individuação ontológica entre escalas, universalidade da álgebra, nem exclusividade histórica da formulação.
 
-**Disponibilização:** versão experimental pública do motor, acompanhada por código e testes. A licença de software permanece não definida; não se presume que a licença do Volume I se estenda automaticamente ao código. Nenhuma conclusão deste trabalho constitui comprovação de autogeração universal.
+**Disponibilização:** versão experimental pública do motor, acompanhada por código e testes. O código-fonte, os testes e os exemplos executáveis do ETLR-MO-02 estão licenciados sob a MIT License, conforme [`LICENSE-MIT`](LICENSE-MIT) e [`NOTA_DE_DIREITOS.md`](NOTA_DE_DIREITOS.md). A licença CC BY-NC-ND 4.0 do Volume I aplica-se ao conteúdo da obra identificado na raiz do repositório e não se estende automaticamente ao software. Os textos científicos e filosóficos autônomos deste experimento não são relicenciados pela MIT. Nenhuma conclusão deste trabalho constitui comprovação de autogeração universal.
 
 
 **Implementação e ensaios:** consulte [`README.md`](README.md), [`ARQUITETURA_RELACIONAL.md`](ARQUITETURA_RELACIONAL.md), a linguagem em `etlr_contextual/` e os testes em `tests/`.
