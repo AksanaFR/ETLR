@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """ETLR-MO-02: protótipo finito do motor contextual; circulação privada.
 
 Implementação original para ensaio metodológico. Não implementa integralmente
