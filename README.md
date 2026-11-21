@@ -69,6 +69,7 @@ Para propostas de uso, adaptação ou republicação não abrangidas pela licen�
 ---
 
 *ETLR — pesquisa independente. Esta página descreve uma obra em revisão editorial e não constitui anúncio de depósito, certificação de resultados ou publicação já realizada.*
+A contribuição proposta pela ETLR não reside na reivindicação de originalidade isolada dos conceitos de indivíduo, relação, fronteira, composição ou continuidade, mas em sua articulação em um quadro lógico-relacional comum. Nesse quadro, constituição interna, manifestação externa, potencialidades, transformações, proveniência histórica e organização multiescalar são investigadas como dimensões interdependentes da individuação. A originalidade dessa integração deverá ser examinada tanto por sua coerência formal quanto por sua capacidade de produzir distinções, critérios e resultados não obtidos pelas formulações consideradas isoladamente.
 
 ### Acessar a obra
 
