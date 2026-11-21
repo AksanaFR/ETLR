@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Execução verificável de reparo, clonagem e falha deliberada."""
 import json
 from dataclasses import replace
