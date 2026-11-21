@@ -48,6 +48,8 @@ Os documentos históricos, as transcrições privadas e os relatórios internos 
 
 **Autoria para citação:** a confirmar na folha de rosto da edição aprovada.
 
+**ORCID informado para identificação autoral:** [0009-0002-5522-6982](https://orcid.org/0009-0002-5522-6982).
+
 **Versão:** edição pública a homologar. A data definitiva, o número de versão e eventual DOI serão informados juntamente com o depósito aprovado. Não atribua DOI ou data de publicação a esta versão preparatória.
 
 Correções e atualizações posteriores serão identificadas por versão; a publicação de uma revisão não altera retroativamente as versões arquivadas.
