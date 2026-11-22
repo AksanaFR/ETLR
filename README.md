@@ -42,7 +42,7 @@ O projeto disponibiliza uma **implementação experimental executável** do cicl
 - **[Arquitetura relacional e suas funções](experiments/ETLR-MO-02/ARQUITETURA_RELACIONAL.md)**
 - **[Artigo técnico-experimental v0.1](experiments/ETLR-MO-02/ARTIGO_EXPERIMENTAL_v0_1.md)**
 
-Os exemplos examinam limites contextuais, manifestações, reentrada e reprodução de componentes *dentro de um modelo sintético*, sem alegar autogeração universal ou validação empírica da ETLR. O **código-fonte, os testes e os exemplos do ETLR-MO-02 estão licenciados sob MIT** ([texto integral](experiments/ETLR-MO-02/LICENSE-MIT)); a licença **CC BY-NC-ND 4.0** do Volume I permanece específica ao conteúdo da obra. Os artigos e textos filosóficos do experimento não são relicenciados como MIT; consulte [a delimitação de direitos](experiments/ETLR-MO-02/NOTA_DE_DIREITOS.md).
+Os exemplos examinam limites contextuais, manifestações, reentrada e reprodução de componentes *dentro de um modelo sintético*, sem alegar autogeração universal ou validação empírica da ETLR. O **código-fonte, os testes e os exemplos executáveis do ETLR-MO-02** estão, na revisão atual, sob **[PolyForm Noncommercial 1.0.0](experiments/ETLR-MO-02/LICENSE)**, com [aviso de direitos](experiments/ETLR-MO-02/NOTICE). O Volume I mantém **CC BY-NC-ND 4.0**, e os textos científicos autônomos não são relicenciados como software. As permissões das versões anteriormente publicadas sob MIT não são revogadas retroativamente; consulte a [nota de direitos](experiments/ETLR-MO-02/NOTA_DE_DIREITOS.md).
 
 ## Acesso à obra
 
