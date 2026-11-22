@@ -64,6 +64,14 @@ Os documentos históricos, as transcrições privadas e os relatórios internos 
 
 Correções e atualizações posteriores serão identificadas por versão; a publicação de uma revisão não altera retroativamente as versões arquivadas.
 
+## Autoria e assistência por inteligência artificial
+
+**Autoria científica e direção intelectual:** **Ravena Bazzotti Minussi** ([ORCID 0009-0002-5522-6982](https://orcid.org/0009-0002-5522-6982)).
+
+**Assistência computacional e metodológica:** **ChatGPT (OpenAI)**, empregado ao longo da investigação como ferramenta de apoio à exploração e ao confronto de hipóteses, à elaboração e revisão textual, à organização documental, à formalização candidata, à programação e à construção de testes e análises experimentais. O escopo da assistência varia entre documentos e experimentos; modelos, versões e procedimentos específicos devem ser identificados nos respectivos registros metodológicos, quando disponíveis.
+
+A responsabilidade pela concepção, seleção, revisão, interpretação e apresentação científica da ETLR permanece com sua autora. Resultados produzidos com auxílio de IA exigem verificação e validação próprias; a assistência computacional **não equivale a demonstração científica independente**. O ChatGPT não figura como coautor científico, e sua menção **não implica endosso, participação institucional ou validação da obra pela OpenAI**.
+
 ## Licença e direitos autorais
 
 **Licença confirmada para o texto autoral e as figuras originais do Volume I:** [Creative Commons Atribuição–NãoComercial–SemDerivações 4.0 Internacional (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt-br). Consulte também o arquivo [`LICENSE`](LICENSE) e o [texto jurídico oficial da licença](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
