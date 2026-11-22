@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Regressões reproduzíveis e controles negativos ETLR-MO-02."""
 import unittest
 from dataclasses import replace
