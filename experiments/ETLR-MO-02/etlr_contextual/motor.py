@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Motor contextual ETLR-MO-02, biblioteca Python padrão (sem dependências).
 
 O microinterpretador em Python continua externo às entidades simuladas.
