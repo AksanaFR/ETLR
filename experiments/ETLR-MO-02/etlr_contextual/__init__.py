@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """ETLR-MO-02: protótipo finito do motor contextual; circulação privada.
 
 Implementação original para ensaio metodológico. Não implementa integralmente
