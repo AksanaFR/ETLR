@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Uso: python -m etlr_contextual exemplos/01_simples.etlr"""
 import sys,json
 from pathlib import Path
