@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 """Execução verificável de reparo, clonagem e falha deliberada."""
 import json
 from dataclasses import replace
