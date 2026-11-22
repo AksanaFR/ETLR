@@ -75,10 +75,11 @@ Uma cadeia SHA-256 relaciona registros locais, mas **não autentica fatos nem pr
 - [`ARQUITETURA_RELACIONAL.md`](ARQUITETURA_RELACIONAL.md) — explicação completa das funções contextuais, limites, temporalidades, representações, composição, realização e reentrada.
 - [`ARTIGO_EXPERIMENTAL_v0_1.md`](ARTIGO_EXPERIMENTAL_v0_1.md) — formalização, proposições, demonstrações internas, controles e discussão científica.
 - [`REFERENCIAS.bib`](REFERENCIAS.bib) — bibliografia científica dos conceitos antecedentes.
-- [`LICENSE-MIT`](LICENSE-MIT) — licença MIT do código, testes e exemplos.
+- [`LICENSE`](LICENSE) — licença PolyForm Noncommercial 1.0.0 do código, testes e exemplos.
+- [`NOTICE`](NOTICE) — aviso obrigatório de direitos autorais.
 - [`NOTA_DE_DIREITOS.md`](NOTA_DE_DIREITOS.md) — delimitação precisa dos direitos de software e de texto.
 - `tests/test_motor.py` — testes que permitem reproduzir e contestar os resultados.
 
 **Atribuições intelectuais.** A discussão faz referência à individuação em Gilbert Simondon; autopoiese em Varela, Maturana e Uribe; fechamento de restrições em Montévil e Mossio; conjuntos autocatalíticos em Hordijk e Steel; controle e adaptação em Ashby; teoria de sistemas de transição em Rutten e Clarke et al.; composicionalidade em Fong e Spivak; ordem causal parcial em Lamport; proveniência no W3C PROV-DM; e parcimônia em Rissanen e Simon. A contribuição candidata consiste na **articulação operacional específica** dessas preocupações para o protocolo ETLR, não na reivindicação de sua invenção isolada. Referências completas e natureza de cada crédito constam do artigo.
 
-**Licenciamento:** o **código-fonte, os testes e os exemplos executáveis** estão sob **[MIT License](LICENSE-MIT)**. O texto do Volume I conserva sua licença específica CC BY-NC-ND 4.0; o artigo experimental e a análise filosófica não são relicenciados como MIT. Consulte [`NOTA_DE_DIREITOS.md`](NOTA_DE_DIREITOS.md). Este material é experimental, não revisado por pares e sem DOI.
+**Licenciamento da revisão atual:** o **código-fonte, os testes e os exemplos executáveis** estão sob **[PolyForm Noncommercial 1.0.0](LICENSE)**, com o [aviso obrigatório](NOTICE). São permitidos os usos previstos no texto integral da licença; não há autorização comercial geral. As versões publicadas anteriormente sob MIT conservam as permissões então concedidas. O Volume I mantém CC BY-NC-ND 4.0, e o artigo experimental e a análise filosófica não são relicenciados como software. Consulte [`NOTA_DE_DIREITOS.md`](NOTA_DE_DIREITOS.md). Este material é experimental, não revisado por pares e sem DOI.
