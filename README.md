@@ -1,4 +1,6 @@
-# ETLR — Álgebra Espaço-Temporal Lógico-Relacional
+# Teoria da Constituição e Transformação Relacional
+
+**Álgebra Espaço-Temporal Lógico-Relacional (ETLR)**
 
 **Volume I — Constituição, fronteira e continuidade do indivíduo**
 
@@ -7,6 +9,8 @@
 ## Apresentação
 
 A **Álgebra Espaço-Temporal Lógico-Relacional (ETLR)** é um programa independente de investigação filosófica e lógico-matemática sobre a constituição de indivíduos, suas fronteiras e relações com o ambiente, suas transformações e as condições de continuidade organizacional entre escalas.
+
+O título **Teoria da Constituição e Transformação Relacional** expressa a questão central da obra: em que condições indivíduos e organizações se constituem, se diferenciam, preservam continuidade e se transformam nas relações entre contextos e escalas. **Álgebra Espaço-Temporal Lógico-Relacional** permanece como subtítulo e denominação técnica histórica (**ETLR**). Essa apresentação não pressupõe uma formalização matemática concluída nem reivindica validade universal demonstrada.
 
 A investigação distingue a constituição interna de uma individualidade de suas manifestações externas. No vocabulário do trabalho, o **signo** participa da constituição e do valor interno do indivíduo e de suas possibilidades de significação, diferenciação e expansão contextual; o **símbolo** é examinado em seu uso relacionado à manifestação situada, sem confundi-lo com toda e qualquer notação matemática.
 
@@ -54,7 +58,7 @@ Os documentos históricos, as transcrições privadas e os relatórios internos 
 
 ## Citação e versões
 
-**Título para referência:** *Álgebra Espaço-Temporal Lógico-Relacional. Volume I — Constituição, fronteira e continuidade do indivíduo*.
+**Título para referência:** *Teoria da Constituição e Transformação Relacional: Álgebra Espaço-Temporal Lógico-Relacional (ETLR). Volume I — Constituição, fronteira e continuidade do indivíduo*.
 
 **Autoria para citação:** a confirmar na folha de rosto da edição aprovada.
 
