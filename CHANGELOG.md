@@ -1,5 +1,12 @@
 # Alterações da distribuição pública ETLR
 
+## Ajuste de leitura — menos brilho
+
+- Aparência escura suave como padrão, sem fundos brancos intensos ou blocos verdes saturados nas páginas atuais. Opções claro suave e alto contraste, com escolha mantida localmente no navegador.
+- Texto padrão de 19 px, opções de 22 e 25 px, entrelinha ampliada, links sublinhados e foco de teclado visível. Paletas de texto verificadas com contraste mínimo de 7:1 nos fundos usados.
+- Ajuste de apresentação nos 12 HTML da candidata e nos índices principal e histórico. Texto científico e âncoras preservados; o PDF de 97 páginas permanece byte a byte igual. Os arquivos históricos arquivados e seus espelhos não foram modificados.
+- Manifestos SHA-256 atualizados para os HTML e para o registro de formatos. A seleção original VI06A e seus hashes permanecem identificáveis no commit anterior. O pequeno script de preferências só atua na apresentação, sem executar controles científicos ou motores.
+
 ## Volume I — edição científica 1.0 CANDIDATA
 
 - Integra os 48 arquivos da seleção editorial VI06A em `volume_i/edicao_1_0_candidata/`, preservando bytes e os 47 checksums internos. O estatuto científico permanece candidato.

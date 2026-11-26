@@ -1,5 +1,5 @@
 {
-  "estatuto": "Edição científica 1.0 CANDIDATA, preparação editorial VI06A; sem publicação.",
+  "estatuto": "Edição científica 1.0 CANDIDATA publicada no GitHub/Pages; PDF VI06A preservado; apresentação HTML ajustada para leitura com menos brilho.",
   "pdf": {
     "arquivo": "VOLUME_I_ETLR_EDICAO_1_0_CANDIDATA.pdf",
     "sha256": "f46ce895aabce180a39df328f64785daae0fef1682e6ebc71f5dea120f821ad7",
@@ -96,5 +96,24 @@
     "sem_acesso": 13,
     "detalhes": "VERIFICACAO_LINKS_EXTERNOS.json"
   },
-  "limites": "Verificações de integridade, apresentação e controles sintéticos; não homologação autoral ou científica, acessibilidade integral ou validação empírica."
+  "limites": "Verificações de integridade, apresentação e controles sintéticos; não homologação autoral ou científica, acessibilidade integral ou validação empírica.",
+  "registro_VI06A": "Os resultados originais abaixo registram a preparação VI06A; o ajuste de apresentação posterior é descrito em apresentacao_publicada.",
+  "apresentacao_publicada": {
+    "padrao": "Escuro suave",
+    "opcoes": [
+      "Escuro suave",
+      "Claro suave",
+      "Alto contraste"
+    ],
+    "texto_px": [
+      19,
+      22,
+      25
+    ],
+    "contraste_minimo_texto": 7.228282608084717,
+    "javascript": "Somente preferências locais de aparência e tamanho, sem rede ou telemetria. A leitura padrão funciona sem JavaScript.",
+    "html_texto_cientifico_inalterado": true,
+    "pdf_inalterado": true,
+    "limite": "Medições da paleta e verificação de apresentação; não certificação integral de acessibilidade."
+  }
 }

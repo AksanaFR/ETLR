@@ -12,6 +12,10 @@
 - [Bibliografia](volume_i/edicao_1_0_candidata/BIBLIOGRAFIA.html) · [Registro de consulta](volume_i/edicao_1_0_candidata/REVISAO_BIBLIOGRAFICA.html) · [Erratas](volume_i/edicao_1_0_candidata/ERRATAS_E_DECISOES_VI05.html) · [Questões abertas](volume_i/edicao_1_0_candidata/QUESTOES_ABERTAS.html) · [Limites](volume_i/edicao_1_0_candidata/LIMITES.html).
 - [Reprodução dos controles selecionados](volume_i/edicao_1_0_candidata/reproducao/README.md) · [Manifesto editorial](volume_i/edicao_1_0_candidata/SHA256SUMS.txt) · [Manifesto da distribuição](SHA256SUMS.txt) · [Changelog](CHANGELOG.md).
 
+## Leitura com menos brilho
+
+Os HTML atuais abrem em escuro suave. No topo, escolha aparência (escuro suave, claro suave ou alto contraste) e tamanho do texto. As preferências ficam somente no navegador, sem envio de dados. A apresentação foi ajustada sem alterar o texto científico ou o PDF; os manifestos refletem os bytes atuais dos HTML. Os materiais históricos conservam sua apresentação original.
+
 ## Alcance científico
 
 Os 50 registros compreendem 12 resultados de matemática conhecida, 27 aplicações e 11 integrações internas, condicionais às premissas. CAL-01 permanece literal. H1–H3, suficiência dos IO candidatos e autogeração forte permanecem abertas. Os controles são sintéticos e delimitados; não constituem prova mecanizada dos cinquenta resultados nem validação de domínios físicos, mentais ou espirituais/astrais.
