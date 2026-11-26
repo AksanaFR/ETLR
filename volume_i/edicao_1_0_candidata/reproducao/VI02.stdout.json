@@ -1,0 +1,20 @@
+{
+  "seguranca_exaustao": {
+    "jogos_restricoes": 324,
+    "predecessores": 1296
+  },
+  "recorrencia_amostrada": {
+    "semente": 20261126,
+    "comparacoes_produto": 1024,
+    "oraculo_politicas": 512,
+    "refinamentos": 512
+  },
+  "contramodelos": {
+    "C1": "controle/disturbio",
+    "C2": "eventos",
+    "C3": "guarda x relacao vazia (ilustracao)",
+    "C4": "continuidade",
+    "C5": "prazo (prefixo ilustrativo)",
+    "C6": "testemunho compartilhado"
+  }
+}

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "B01",
+    "verificacao_VI05": "PDF primário online e extração do PDF local",
+    "localizador_reaberto": "Introdução, tipagem; PDF pp.1–5; metateorema não usado como premissa",
+    "alcance_e_limite": "Antecedente técnico pertinente; extração de fórmulas antigas tem artefatos, cotejo pelo enunciado e pelas provas próprias.",
+    "url": "https://www.cs.cornell.edu/~kozen/Papers/typed.pdf",
+    "pdf_local_sha256": "c99451cb54569c960a211094cd96d944040b76333bfc4ea462214328bb81918e",
+    "pdf_local_bytes": 220384
+  },
+  {
+    "id": "B02",
+    "verificacao_VI05": "PDF primário online e extração local",
+    "localizador_reaberto": "§1.1, PDF p.3, exemplo relacional",
+    "alcance_e_limite": "Operações relacionais conhecidas; não reivindicar uma nova álgebra geral pela mudança de vocabulário.",
+    "url": "https://www.cs.cornell.edu/kozen/Papers/ka.pdf",
+    "pdf_local_sha256": "0ee16dfbfe755a95fa2b0ff2463c8751d86c5d7950182fe888e55c27b1ae1606",
+    "pdf_local_bytes": 233135
+  },
+  {
+    "id": "B03",
+    "verificacao_VI05": "PDF online sem texto extraível; imagem local reaberta",
+    "localizador_reaberto": "PDF pp.6–8 / artigo pp.242–244",
+    "alcance_e_limite": "Contexto de aproximação por ordem e pontos fixos; não atribuir automaticamente as pequenas identidades conjuntivas ETLR a esse artigo.",
+    "url": "https://www.di.ens.fr/~cousot/COUSOTpapers/publications.www/CousotCousot-POPL-77-ACM-p238--252-1977.pdf",
+    "pdf_local_sha256": "5d2956eed13b2d40f6e15c2087fb870c3dea54a332fe46ee07cea608ca417238",
+    "pdf_local_bytes": 941105
+  },
+  {
+    "id": "B04",
+    "verificacao_VI05": "Duas aberturas online falharam por timeout; PDF local conferido e definição extraída",
+    "localizador_reaberto": "§3, definição de A-simulation e Lemma 1; PDF pp.6–7",
+    "alcance_e_limite": "Ordem alternada de quantificadores pertinente; fonte não é idêntica ao certificado forte bilateral por nomes fixos de ações.",
+    "url": "https://www.cs.huji.ac.il/~ornak/publications/concur98.pdf",
+    "pdf_local_sha256": "e4307086bd293bccee271e13bfdd923b11c35f2b713a109b77b7274b38aa54dc",
+    "pdf_local_bytes": 157271
+  },
+  {
+    "id": "B05",
+    "verificacao_VI05": "PDF arXiv primário online e extração local",
+    "localizador_reaberto": "v3 de 02/01/2017; §V, Def.V.2/Thm.V.4 e §VI; PDF pp.9–10,13",
+    "alcance_e_limite": "Refinamento por realimentação tem hipóteses próprias de implementação e quantização; não equivale sem ressalvas a PVI02.3.",
+    "url": "https://arxiv.org/pdf/1503.03715",
+    "pdf_local_sha256": "153267b425cfa135526d078af548b6efb1e1fa4213f67af6db65d696978702f5",
+    "pdf_local_bytes": 479526
+  },
+  {
+    "id": "B06",
+    "verificacao_VI05": "PDF primário online",
+    "localizador_reaberto": "STAN-CS-71-190, Introdução, descrição formal e correção; PDF pp.5–7",
+    "alcance_e_limite": "Antecedente de minimização determinista; prova simples de refinamento não herda automaticamente sua complexidade n log n.",
+    "url": "https://www.cs.cmu.edu/~cdm/resources/Hopcroft1971.pdf"
+  },
+  {
+    "id": "B07",
+    "verificacao_VI05": "PDF primário online e extração local",
+    "localizador_reaberto": "§§4.1–4.2; Def.4.1/Thms.4.1–4.4; PDF pp.8–9",
+    "alcance_e_limite": "Antecedente de jogos, paridade e pontos fixos. A fórmula Büchi e o critério SCC do volume têm provas próprias, sem atribuição literal.",
+    "url": "https://www.cs.cornell.edu/courses/cs6860/2010fa/Handouts/EmersonJutla91.pdf",
+    "pdf_local_sha256": "b2e24a97379fe1d1de151b2d941282bc4871067c15ea2b6ea1847c52994f2d3a",
+    "pdf_local_bytes": 209673
+  },
+  {
+    "id": "B08",
+    "verificacao_VI05": "PDF primário online e extração local",
+    "localizador_reaberto": "§2, PDF pp.4–5, estratégias baseadas em observação",
+    "alcance_e_limite": "Delimita o regime de informação parcial; não autoriza aplicar o seletor por estado completo a uma interface parcial.",
+    "url": "https://lsv.ens-paris-saclay.fr/~doyen/papers/Algorithms_for_Omega-regular_Games_of_Imperfect_Information.pdf",
+    "pdf_local_sha256": "64875b75ea49aaf11bde1bf5bfdc32fc4e8729a9166d67f813db2ec209f2340c",
+    "pdf_local_bytes": 346680
+  },
+  {
+    "id": "B09",
+    "verificacao_VI05": "PDF autoral online e extração local",
+    "localizador_reaberto": "Artigo pp.46–47,59–62; PDF pp.1–2,14–17",
+    "alcance_e_limite": "Interconexão por variáveis compartilhadas é comparação pertinente; não demonstra individuação ou causalidade dos modelos booleanos ETLR.",
+    "url": "https://homes.esat.kuleuven.be/~sistawww/smc/jwillems/Articles/JournalArticles/2007.1.pdf",
+    "pdf_local_sha256": "aba4935cf313bbe707b0e80e86609a11d3a6727c468c11f27c022b13fc91c50e",
+    "pdf_local_bytes": 3644498
+  },
+  {
+    "id": "B10",
+    "verificacao_VI05": "Preprint primário online",
+    "localizador_reaberto": "UCDMS2003/14, §§2–4; PDF pp.4–6, definições CRS/RAF e fecho",
+    "alcance_e_limite": "RAF usa condições químicas/catalíticas próprias; não reduzi-lo ao grafo potencial nem tratá-lo como refutado pelos contramodelos ETLR.",
+    "url": "https://ir.canterbury.ac.nz/server/api/core/bitstreams/74a31f99-dbd0-456c-a427-4fbe7a647d86/content"
+  },
+  {
+    "id": "B11",
+    "verificacao_VI05": "Digitalização online sem texto extraível; imagem local inspecionada",
+    "localizador_reaberto": "Artigo p.188, §3 e início de §4; imagem B11_p2.png",
+    "alcance_e_limite": "Definição enfatiza rede produtiva e realização da unidade. A margem direita da cópia tem perdas; não alegada leitura integral da definição em todos os detalhes ou do artigo.",
+    "url": "https://monoskop.org/images/d/dd/Varela_Maturana_Uribe_1974_Autopoiesis.pdf",
+    "pdf_local_sha256": "f5b8ae7ff67dd1cc95672455a86979d5c64e592b12941360d41b145f8946ac27",
+    "pdf_local_bytes": 1195955
+  },
+  {
+    "id": "B12",
+    "verificacao_VI05": "Texto autoral online e extração local",
+    "localizador_reaberto": "§§3–5, Defs.2–4; HTML §5 Closure; manuscrito PDF pp.8–10",
+    "alcance_e_limite": "Fechamento estrito acrescenta condição de integração; recorrência de etiquetas não é equivalência com esse conceito.",
+    "url": "https://montevil.org/publications/articles/2015-mm-organisation-closure-constraints/",
+    "pdf_local_sha256": "46b270194589e1d713651881db585b192b8ed58b5a54ca86337a4a84013e9d24",
+    "pdf_local_bytes": 235782
+  },
+  {
+    "id": "B13",
+    "verificacao_VI05": "PDF primário arXiv online",
+    "localizador_reaberto": "v2; introdução e §II.A, PDF pp.2–3",
+    "alcance_e_limite": "Comparação histórica delimitada à mecânica quântica relacional; não fundamenta a validade do U/C clássico, H1 ou IO suficientes.",
+    "url": "https://arxiv.org/pdf/quant-ph/9609002",
+    "pdf_local_sha256": "e185c607a5fb83907f08d2ea0485b0ead53b2af4a9fa5d4de0fdb2e511053c26",
+    "pdf_local_bytes": 300689
+  },
+  {
+    "id": "B14",
+    "verificacao_VI05": "Abertura atual recusada por HTTP403",
+    "localizador_reaberto": "Localizador herdado: introdução editorial parcial",
+    "alcance_e_limite": "Metadados herdados, sem novo corpo acessível e sem apoio substantivo a conclusões. Lacuna preservada.",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0039368198801295"
+  },
+  {
+    "id": "B15",
+    "verificacao_VI05": "PDF primário online e extração local",
+    "localizador_reaberto": "§§1.1–1.2 e 3.3–3.4; PDF pp.3–4,11–12",
+    "alcance_e_limite": "Tempo quantitativo e relógios têm semântica própria. Não atribuir a fonte os balanços elementares ou o critério SCC do volume.",
+    "url": "https://www.cmi.ac.in/~madhavan/courses/verification-2011/alur-dill-tcs-94.pdf",
+    "pdf_local_sha256": "1916896860ea68b585053119d1464a777749d487b4a2db23cff69c0fb4c2b85f",
+    "pdf_local_bytes": 3726176
+  },
+  {
+    "id": "B16",
+    "verificacao_VI05": "PDF do autor online e extração local",
+    "localizador_reaberto": "The Partial Ordering e Logical Clocks; pp.558–559 / PDF pp.1–2",
+    "alcance_e_limite": "Precedência e relógios distintos; ciclo de tipos não é causalidade retroativa e ordem de registro não autentica causa.",
+    "url": "https://lamport.azurewebsites.net/pubs/time-clocks.pdf",
+    "pdf_local_sha256": "c55e7cab4230aa3d7126748a149b2db6f0d7a67296d5eccfdd50a210299a96b2",
+    "pdf_local_bytes": 854562
+  },
+  {
+    "id": "B17",
+    "verificacao_VI05": "PDF primário online e extração local",
+    "localizador_reaberto": "§2 Example 2.1; Cor.5.6 e Props.5.7–5.8, PDF pp.31–32 / artigo pp.33–34; Thm.7.2 PDF p.36 / artigo p.38",
+    "alcance_e_limite": "Pertinente a sistemas, homomorfismos e quocientes; não localiza emparelhamento perfeito nem identidade filosófica em P09.3.",
+    "url": "https://fldit-www.cs.tu-dortmund.de/~peter/Rutten/UniversalCoalgebra.pdf",
+    "pdf_local_sha256": "c1b6b2ac1cde6e485dc51f7acff209dfd926e520605f249863dad73f3628592b",
+    "pdf_local_bytes": 460671
+  },
+  {
+    "id": "F01",
+    "verificacao_VI05": "Página institucional online",
+    "localizador_reaberto": "Apresentação e quatro funções, Joseph Campbell’s Four Functions of Myth",
+    "alcance_e_limite": "Fonte secundária institucional quanto à formulação de Campbell; origem de questões, não evidência de H1 ou corpus intercultural.",
+    "url": "https://www.jcf.org/learn/joseph-campbell-four-functions-of-myth"
+  },
+  {
+    "id": "F02",
+    "verificacao_VI05": "Página institucional online",
+    "localizador_reaberto": "Apresentação de The Hero with a Thousand Faces e seção What is the Hero’s Journey",
+    "alcance_e_limite": "Uso heurístico; não leitura integral do livro nem confirmação do monomito.",
+    "url": "https://www.jcf.org/learn/joseph-campbell-heros-journey"
+  },
+  {
+    "id": "F03",
+    "verificacao_VI05": "Texto primário da autora online",
+    "localizador_reaberto": "Abstract, introdução e referência de publicação em Symbols at ‘Ain Ghazal (2013), pp.56–62",
+    "alcance_e_limite": "Caso arqueológico regional; não genealogia universal da escrita ou prova da tríade.",
+    "url": "https://sites.utexas.edu/dsb/tokens/tokens-and-writing-the-cognitive-development/"
+  },
+  {
+    "id": "F04",
+    "verificacao_VI05": "Registro editorial online",
+    "localizador_reaberto": "Título, autor, ISBN 978-0-271-09345-1 e ano 2022",
+    "alcance_e_limite": "Metadados e apresentação editorial; livro não lido integralmente e sem equiparação da CAL-01 a doutrina tradicional única.",
+    "url": "https://www.psupress.org/books/titles/978-0-271-09345-1.html"
+  },
+  {
+    "id": "F05",
+    "verificacao_VI05": "Registro editorial online",
+    "localizador_reaberto": "Peirce Edition Project, Selected Philosophical Writings (1893–1913), publicação junho de 1998",
+    "alcance_e_limite": "Metadados pertinentes ao corpus; não conteúdo suficiente para equivalência entre terminologia de Peirce e polaridade autoral.",
+    "url": "https://iupress.org/9780253211903/the-essential-peirce-volume-2/"
+  }
+]

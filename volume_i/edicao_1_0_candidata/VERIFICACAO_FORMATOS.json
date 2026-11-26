@@ -1,0 +1,100 @@
+{
+  "estatuto": "Edição científica 1.0 CANDIDATA, preparação editorial VI06A; sem publicação.",
+  "pdf": {
+    "arquivo": "VOLUME_I_ETLR_EDICAO_1_0_CANDIDATA.pdf",
+    "sha256": "f46ce895aabce180a39df328f64785daae0fef1682e6ebc71f5dea120f821ad7",
+    "paginas": 97,
+    "mesmo_arquivo_candidato_para_Zenodo_e_GitHub": true,
+    "tagged": true,
+    "palavras_ausentes": 0,
+    "formulas_criticas": {
+      "H(Z)=μY.[(B∩V∩CPre(Z))∪(V∩CPre(Y))]": true,
+      "Wrec=νZ.H(Z)": true,
+      "CPre_X(P⁻¹Z)=P⁻¹(CPre_Y(Z))": true,
+      "ker(m)⊆ker(f)": true,
+      "∅≠": true,
+      "|J|·|C|": true,
+      "2^{-n}": true
+    },
+    "conteudo_fora_pagina": [],
+    "anexos": 0,
+    "sem_scripts": true,
+    "metadados": {
+      "/Title": "ETLR — Volume I: Constituição e transformação relacional do indivíduo — 1.0 CANDIDATA",
+      "/Subject": "Preparação editorial VI06A. Revisão interna; sem validação empírica ou revisão externa."
+    },
+    "inspecao_visual": "97 páginas em folhas de contato e detalhes selecionados, por IA; sem defeitos detectados no alcance examinado."
+  },
+  "html": {
+    "documentos": 12,
+    "autonomos_sem_rede": true,
+    "sem_scripts": true,
+    "markdown_correspondente": true,
+    "larguras_testadas": [
+      1440,
+      390
+    ],
+    "mobile": "Volume integral a 390 px; suplementos a 1440 px.",
+    "links_locais": "Sem falhas após fechamento do manifesto e deste relatório; âncoras incluídas."
+  },
+  "ciencia": {
+    "resultados": 50,
+    "exposicoes_com_premissas_argumentos_conclusoes_conservadas": true,
+    "unicas_alteracoes_nas_exposicoes": "Remissões a fontes históricas internas convertidas em citações textuais.",
+    "CAL01_literal_sha256": "e52b7d3f7c2be10ebe8b48daec1f2fa8576945b8b9b176c511caf7d2f5d9e647",
+    "classes": {
+      "conhecidos": 12,
+      "aplicacoes": 27,
+      "integracoes_internas": 11
+    },
+    "H1_H3_IO_autogeracao_forte": "Hipóteses e critérios candidatos; suficiência IO e autogeração forte permanecem abertas.",
+    "originalidade_externa": "Não estabelecida",
+    "validacao_empirica": false,
+    "revisao_externa": false
+  },
+  "reproducao": {
+    "python": "3.12.14",
+    "controles": [
+      {
+        "id": "VI02",
+        "codigo": "VI02_codigo_original.py",
+        "sha256_codigo": "717e54158a232ee027b5e2e9a4ed8227d883551c7ddf16d1da79442fe8dbac22",
+        "returncode": 0,
+        "stderr_vazio": true,
+        "igualdade_semantica": true,
+        "campos_excluidos": []
+      },
+      {
+        "id": "VI03",
+        "codigo": "VI03_codigo_original.py",
+        "sha256_codigo": "07d50e816bf2748118e708268dafefc5f0ed30cf461d9573c05f4986f88fa966",
+        "returncode": 0,
+        "stderr_vazio": true,
+        "igualdade_semantica": true,
+        "campos_excluidos": [
+          "tempo_segundos"
+        ]
+      },
+      {
+        "id": "VI05",
+        "codigo": "controles_complementares.py",
+        "sha256_codigo": "92de2667631a180fd3b5ecde54a06c17d685b60fb7b83e875ae781355bb760da",
+        "returncode": 0,
+        "stderr_vazio": true,
+        "igualdade_semantica": true,
+        "campos_excluidos": [
+          "tempo_segundos"
+        ]
+      }
+    ],
+    "aprovado": true,
+    "limite": "Controles sintéticos delimitados; sem validação empírica, motores, prova mecanizada ou execução de todas as suítes históricas."
+  },
+  "links_externos": {
+    "total": 37,
+    "aberturas": 24,
+    "sem_acesso": 13,
+    "detalhes": "VERIFICACAO_LINKS_EXTERNOS.json"
+  },
+  "limites": "Verificações de integridade, apresentação e controles sintéticos; não homologação autoral ou científica, acessibilidade integral ou validação empírica."
+}

@@ -1,0 +1,38 @@
+{
+  "python": "3.12.14",
+  "controles": [
+    {
+      "id": "VI02",
+      "codigo": "VI02_codigo_original.py",
+      "sha256_codigo": "717e54158a232ee027b5e2e9a4ed8227d883551c7ddf16d1da79442fe8dbac22",
+      "returncode": 0,
+      "stderr_vazio": true,
+      "igualdade_semantica": true,
+      "campos_excluidos": []
+    },
+    {
+      "id": "VI03",
+      "codigo": "VI03_codigo_original.py",
+      "sha256_codigo": "07d50e816bf2748118e708268dafefc5f0ed30cf461d9573c05f4986f88fa966",
+      "returncode": 0,
+      "stderr_vazio": true,
+      "igualdade_semantica": true,
+      "campos_excluidos": [
+        "tempo_segundos"
+      ]
+    },
+    {
+      "id": "VI05",
+      "codigo": "controles_complementares.py",
+      "sha256_codigo": "92de2667631a180fd3b5ecde54a06c17d685b60fb7b83e875ae781355bb760da",
+      "returncode": 0,
+      "stderr_vazio": true,
+      "igualdade_semantica": true,
+      "campos_excluidos": [
+        "tempo_segundos"
+      ]
+    }
+  ],
+  "aprovado": true,
+  "limite": "Controles sintéticos delimitados; sem validação empírica, motores, prova mecanizada ou execução de todas as suítes históricas."
+}

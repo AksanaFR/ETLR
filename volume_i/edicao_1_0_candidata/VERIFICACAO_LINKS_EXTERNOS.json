@@ -1,0 +1,194 @@
+{
+  "data_verificacao": "2026-11-26",
+  "total": 37,
+  "aberturas": 24,
+  "nao_acessiveis": 13,
+  "links": [
+    {
+      "url": "https://arxiv.org/pdf/1503.03715",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://arxiv.org/pdf/quant-ph/9609002",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://doi.org/10.1006/inco.1994.1037",
+      "resultado": "NAO_ACESSIVEL_NA_FERRAMENTA",
+      "observacao": "URL https://doi.org/10.1006/inco.1994.1037 is not accessible via this tool."
+    },
+    {
+      "url": "https://doi.org/10.1007/BF02302261",
+      "resultado": "NAO_ACESSIVEL_NA_FERRAMENTA",
+      "observacao": "URL https://doi.org/10.1007/BF02302261 is not accessible via this tool."
+    },
+    {
+      "url": "https://doi.org/10.1007/BFb0055622",
+      "resultado": "NAO_ACESSIVEL_NA_FERRAMENTA",
+      "observacao": "URL https://doi.org/10.1007/BFb0055622 is not accessible via this tool."
+    },
+    {
+      "url": "https://doi.org/10.1016/0303-2647(74)90031-8",
+      "resultado": "NAO_ACESSIVEL_NA_FERRAMENTA",
+      "observacao": "Failed to fetch https://doi.org/10.1016/0303-2647%2874%2990031-8: (403) Forbidden"
+    },
+    {
+      "url": "https://doi.org/10.1016/0304-3975(94)90010-8",
+      "resultado": "NAO_ACESSIVEL_NA_FERRAMENTA",
+      "observacao": "Failed to fetch https://doi.org/10.1016/0304-3975%2894%2990010-8: (403) Forbidden"
+    },
+    {
+      "url": "https://doi.org/10.1016/S0039-3681(98)80129-5",
+      "resultado": "NAO_ACESSIVEL_NA_FERRAMENTA",
+      "observacao": "URL https://doi.org/10.1016/S0039-3681%2898%2980129-5 is not accessible via this tool."
+    },
+    {
+      "url": "https://doi.org/10.1016/S0304-3975(00)00056-6",
+      "resultado": "NAO_ACESSIVEL_NA_FERRAMENTA",
+      "observacao": "URL https://doi.org/10.1016/S0304-3975%2800%2900056-6 is not accessible via this tool."
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jtbi.2003.11.020",
+      "resultado": "NAO_ACESSIVEL_NA_FERRAMENTA",
+      "observacao": "Failed to fetch https://doi.org/10.1016/j.jtbi.2003.11.020: (500) Redirected to https://linkinghub.elsevier.com/retrieve/pii/S0022519303004417 which is not accessible via this tool. (non-retryable error)"
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jtbi.2015.02.029",
+      "resultado": "NAO_ACESSIVEL_NA_FERRAMENTA",
+      "observacao": "Failed to fetch https://doi.org/10.1016/j.jtbi.2015.02.029: (403) Forbidden"
+    },
+    {
+      "url": "https://doi.org/10.1109/MCS.2007.906923",
+      "resultado": "ABERTURA_RESTRITA_JAVASCRIPT",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://doi.org/10.1109/SFCS.1991.185392",
+      "resultado": "ABERTURA_RESTRITA_JAVASCRIPT",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://doi.org/10.1109/TAC.2016.2593947",
+      "resultado": "NAO_ACESSIVEL_NA_FERRAMENTA",
+      "observacao": "URL https://doi.org/10.1109/TAC.2016.2593947 is not accessible via this tool."
+    },
+    {
+      "url": "https://doi.org/10.1145/359545.359563",
+      "resultado": "NAO_ACESSIVEL_NA_FERRAMENTA",
+      "observacao": "Failed to fetch https://doi.org/10.1145/359545.359563: (403) Forbidden"
+    },
+    {
+      "url": "https://doi.org/10.1145/512950.512973",
+      "resultado": "NAO_ACESSIVEL_NA_FERRAMENTA",
+      "observacao": "Failed to fetch https://doi.org/10.1145/512950.512973: (403) Forbidden"
+    },
+    {
+      "url": "https://doi.org/10.2168/LMCS-3(3:4)2007",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://fldit-www.cs.tu-dortmund.de/~peter/Rutten/UniversalCoalgebra.pdf",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://homes.esat.kuleuven.be/~sistawww/smc/jwillems/Articles/JournalArticles/2007.1.pdf",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://ir.canterbury.ac.nz/server/api/core/bitstreams/74a31f99-dbd0-456c-a427-4fbe7a647d86/content",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://iupress.org/9780253211903/the-essential-peirce-volume-2/",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://lamport.azurewebsites.net/pubs/time-clocks.pdf",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://lsv.ens-paris-saclay.fr/~doyen/papers/Algorithms_for_Omega-regular_Games_of_Imperfect_Information.pdf",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://monoskop.org/images/d/dd/Varela_Maturana_Uribe_1974_Autopoiesis.pdf",
+      "resultado": "ABERTURA_PDF_SEM_TEXTO_EXTRAIVEL",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://montevil.org/publications/articles/2015-mm-organisation-closure-constraints/",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://sites.utexas.edu/dsb/tokens/tokens-and-writing-the-cognitive-development/",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://www.cmi.ac.in/~madhavan/courses/verification-2011/alur-dill-tcs-94.pdf",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://www.cs.cmu.edu/~cdm/resources/Hopcroft1971.pdf",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://www.cs.cornell.edu/courses/cs6860/2010fa/Handouts/EmersonJutla91.pdf",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://www.cs.cornell.edu/kozen/Papers/ka.pdf",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://www.cs.cornell.edu/~kozen/Papers/typed.pdf",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://www.cs.huji.ac.il/~ornak/publications/concur98.pdf",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://www.di.ens.fr/~cousot/COUSOTpapers/publications.www/CousotCousot-POPL-77-ACM-p238--252-1977.pdf",
+      "resultado": "ABERTURA_PDF_SEM_TEXTO_EXTRAIVEL",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://www.jcf.org/learn/joseph-campbell-four-functions-of-myth",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://www.jcf.org/learn/joseph-campbell-heros-journey",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://www.psupress.org/books/titles/978-0-271-09345-1.html",
+      "resultado": "ABERTURA_COM_CONTEUDO",
+      "observacao": "Abertura pontual pela ferramenta web; sem nova auditoria substantiva da fonte."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0039368198801295",
+      "resultado": "NAO_ACESSIVEL_NA_FERRAMENTA",
+      "observacao": "Failed to fetch https://www.sciencedirect.com/science/article/abs/pii/S0039368198801295: (403) Forbidden"
+    }
+  ],
+  "limite": "Disponibilidade pontual pela ferramenta web, que pode usar cache; 403, bloqueios e falhas não provam inexistência. Duas páginas requerem JavaScript e dois PDFs não oferecem texto extraível. Referências originais conservadas; nenhuma revisão bibliográfica substantiva nova."
+}

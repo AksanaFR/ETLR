@@ -1,0 +1,54 @@
+{
+  "PVI02.3_exaustao_micro": {
+    "pares_por_estado": 65,
+    "pares_jogos": 4225,
+    "comparacoes_seguranca_e_buchi": 67600,
+    "escopo": "2 estados; uma ação; 2 etiquetas; projeção identidade; conjuntos de segurança/aceitação saturados; todas inclusões não vazias"
+  },
+  "PVI02.3_levantamento_politicas": {
+    "semente": 2026112603,
+    "jogos": 96,
+    "produtos_uma_duas_obrigacoes": 192,
+    "politicas_abstratas_levantadas": 9066,
+    "estados_produto_examinados": 2304,
+    "seletor": "ações concretas renomeadas por estado; testemunho depende de x,a; projeção 4→2"
+  },
+  "contramodelos": {
+    "CM01_inclusao_invertida": "CONFIRMADO",
+    "CM02_quantificador_acao_invertido": "CONFIRMADO",
+    "CM03_perturbacao_antes_controle": "CONFIRMADO",
+    "CM04_selecao_irrealizavel_informacao_parcial": "CONFIRMADO",
+    "CM05_vacuidade_rejeitada": "CONFIRMADO",
+    "CM06_aceitacao_omitida": "CONFIRMADO",
+    "CM07_sem_reciproca": "CONFIRMADO"
+  },
+  "PVI02.4_oraculo_particoes": {
+    "jogos_amostrados": 160,
+    "particoes_por_jogo": 15,
+    "comparacoes": 2400,
+    "observaveis": "binários mais segurança; ações habilitadas e etiquetas 0/1; sem guardas gerais"
+  },
+  "intersecao_nao_determinista": {
+    "estados": 6,
+    "particoes_isoladas_estaveis": true,
+    "intersecao_estavel": false,
+    "escopo": "contramodelo à extrapolação não determinista do corolário determinista P07.1"
+  },
+  "dependencias": {
+    "P07.3_classes": [
+      2,
+      3,
+      4
+    ],
+    "P08.2_testemunho_incompativel": "confirmado",
+    "P10.7_passos_colapso": [
+      2,
+      3,
+      4
+    ],
+    "P11.7": "precedência estrita preservada na cadeia; prova geral no laudo"
+  },
+  "tempo_segundos": 1.552,
+  "status": "APROVADO_NO_ESCOPO",
+  "prova_geral": "argumentação no laudo, não induzida das contagens"
+}

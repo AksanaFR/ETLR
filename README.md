@@ -1,119 +1,39 @@
-# Teoria da Constituição e Transformação Relacional
+# ETLR — Volume I
 
-**Álgebra Espaço-Temporal Lógico-Relacional (ETLR)**
+**Teoria da Constituição e Transformação Relacional · Álgebra Espaço-Temporal Lógico-Relacional**
 
-**Volume I — Constituição, fronteira e continuidade do indivíduo**
+**Constituição e transformação relacional do indivíduo — edição científica 1.0 CANDIDATA.** A edição candidata está disponibilizada neste repositório; não equivale a edição definitiva homologada, validação empírica ou revisão externa independente. A originalidade externa não está estabelecida.
 
-> **Estado editorial:** edição de trabalho em revisão para publicação independente. A licença da obra está definida como **CC BY-NC-ND 4.0**; a disponibilização do manuscrito definitivo e dos identificadores bibliográficos permanece condicionada à aprovação da edição pública.
+## Leitura e suplementos
 
-## Apresentação
+- [Página principal](https://aksanafr.github.io/ETLR/) · [Volume integral HTML](volume_i/edicao_1_0_candidata/VOLUME_I_ETLR_EDICAO_1_0_CANDIDATA.html) · [PDF, 97 páginas](volume_i/edicao_1_0_candidata/VOLUME_I_ETLR_EDICAO_1_0_CANDIDATA.pdf) · [Markdown](volume_i/edicao_1_0_candidata/VOLUME_I_ETLR_EDICAO_1_0_CANDIDATA.md).
+- [Índice científico](volume_i/edicao_1_0_candidata/INDICE_CIENTIFICO.html) · [Guia da seleção editorial](volume_i/edicao_1_0_candidata/README.html) · [Glossário](volume_i/edicao_1_0_candidata/GLOSSARIO.html).
+- [Auditoria dos 50 resultados](volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html) · [Matriz](volume_i/edicao_1_0_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html) · [CSV](volume_i/edicao_1_0_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.csv) · [JSON](volume_i/edicao_1_0_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.json).
+- [Bibliografia](volume_i/edicao_1_0_candidata/BIBLIOGRAFIA.html) · [Registro de consulta](volume_i/edicao_1_0_candidata/REVISAO_BIBLIOGRAFICA.html) · [Erratas](volume_i/edicao_1_0_candidata/ERRATAS_E_DECISOES_VI05.html) · [Questões abertas](volume_i/edicao_1_0_candidata/QUESTOES_ABERTAS.html) · [Limites](volume_i/edicao_1_0_candidata/LIMITES.html).
+- [Reprodução dos controles selecionados](volume_i/edicao_1_0_candidata/reproducao/README.md) · [Manifesto editorial](volume_i/edicao_1_0_candidata/SHA256SUMS.txt) · [Manifesto da distribuição](SHA256SUMS.txt) · [Changelog](CHANGELOG.md).
 
-A **Álgebra Espaço-Temporal Lógico-Relacional (ETLR)** é um programa independente de investigação filosófica e lógico-matemática sobre a constituição de indivíduos, suas fronteiras e relações com o ambiente, suas transformações e as condições de continuidade organizacional entre escalas.
+## Alcance científico
 
-O título **Teoria da Constituição e Transformação Relacional** expressa a questão central da obra: em que condições indivíduos e organizações se constituem, se diferenciam, preservam continuidade e se transformam nas relações entre contextos e escalas. **Álgebra Espaço-Temporal Lógico-Relacional** permanece como subtítulo e denominação técnica histórica (**ETLR**). Essa apresentação não pressupõe uma formalização matemática concluída nem reivindica validade universal demonstrada.
+Os 50 registros compreendem 12 resultados de matemática conhecida, 27 aplicações e 11 integrações internas, condicionais às premissas. CAL-01 permanece literal. H1–H3, suficiência dos IO candidatos e autogeração forte permanecem abertas. Os controles são sintéticos e delimitados; não constituem prova mecanizada dos cinquenta resultados nem validação de domínios físicos, mentais ou espirituais/astrais.
 
-A investigação distingue a constituição interna de uma individualidade de suas manifestações externas. No vocabulário do trabalho, o **signo** participa da constituição e do valor interno do indivíduo e de suas possibilidades de significação, diferenciação e expansão contextual; o **símbolo** é examinado em seu uso relacionado à manifestação situada, sem confundi-lo com toda e qualquer notação matemática.
+## Histórico e compatibilidade
 
-O objetivo não é pressupor uma ontologia universal como resultado estabelecido, mas desenvolver definições, hipóteses, modelos e critérios que permitam **examinar e testar** proposições sobre individuação, composição, fronteiras e continuidade.
+[Acervo histórico](older_versions/index.html): Volume I EDIT-02 R4 e experimento ETLR-MO-02 v0.1. Os arquivos canônicos estão em `older_versions/`; cópias idênticas nos caminhos anteriores preservam links, downloads e fragmentos. O histórico Git permanece intacto. O motor experimental histórico não foi alterado nem executado nesta publicação.
 
-## O Volume I
+## Autoria, direitos e citação
 
-O primeiro volume reúne **12 capítulos (ETLR-00 a ETLR-11)**, organizados em três partes:
+A declaração autoral já pública identifica **Ravena Bazzotti Minussi**, [ORCID 0009-0002-5522-6982](https://orcid.org/0009-0002-5522-6982). A forma bibliográfica da nova edição e os metadados de depósito ainda dependem de confirmação. Não há DOI atribuído a esta edição nem afiliação declarada aqui.
 
-1. **O indivíduo, seu ambiente e sua fronteira** — constituição interna/externa, campos, escalas e axiomas candidatos de fronteira, composição e continuidade (ETLR-00 a ETLR-02).
-2. **Relações e transformações** — gramática relacional, semântica operacional, invariantes, campos relacionais, modelos discriminantes e correspondências condicionais entre domínios (ETLR-03 a ETLR-07).
-3. **Da conexão à continuidade organizacional** — composição por interfaces, individuação, sincronização, manutenção, reparação e ciclos constitutivos (ETLR-08 a ETLR-11).
+A declaração preexistente de assistência por ChatGPT (OpenAI) é preservada: ferramenta de apoio à investigação, redação, formalização e programação; a responsabilidade científica permanece com a autora, sem coautoria ou endosso institucional da OpenAI.
 
-O manuscrito combina discussão conceitual, formalização progressiva, contraexemplos, resultados condicionais e exploração de modelos finitos. **A reprodução de resultados de modelos delimitados não estabelece validade universal nem comprovação empírica da teoria.**
+O [LICENSE](LICENSE) existente permanece integral, com seu escopo de texto autoral e figuras originais do Volume I sob CC BY-NC-ND 4.0; não se estende automaticamente aos códigos científicos novos. A licença dos suplementos e códigos novos aguarda definição explícita. O software histórico conserva [PolyForm Noncommercial 1.0.0](older_versions/experiments/ETLR-MO-02/LICENSE), [NOTICE](older_versions/experiments/ETLR-MO-02/NOTICE) e [nota de direitos](older_versions/experiments/ETLR-MO-02/NOTA_DE_DIREITOS.md). As fontes tipográficas conservam seu [aviso próprio](volume_i/edicao_1_0_candidata/AVISO_FONTES.txt).
 
-## Como ler os resultados
+## PDF comum ao GitHub e ao futuro Zenodo
 
-O texto distingue:
+O PDF publicado tem 97 páginas, 1.428.119 bytes e SHA-256:
 
-- **Definições e axiomas candidatos**, usados para estabelecer uma linguagem de investigação.
-- **Hipóteses e questões abertas**, que não devem ser lidas como fatos comprovados.
-- **Proposições e demonstrações condicionais**, válidas nas hipóteses declaradas.
-- **Modelos finitos e contraexemplos**, cujo alcance é restrito às condições investigadas.
-- **Interpretações possíveis**, que exigem validação própria quando aplicadas a domínios físicos, biológicos, cognitivos ou computacionais.
+`f46ce895aabce180a39df328f64785daae0fef1682e6ebc71f5dea120f821ad7`
 
-A obra é um **programa de pesquisa em desenvolvimento**, não uma teoria universal demonstrada nem uma implementação de software pronta para uso.
+O futuro depósito deverá usar exatamente esses bytes, sem reimpressão. Nenhum depósito Zenodo ou DOI foi criado. Os guias internos da seleção conservam o registro histórico da preparação VI06A, quando ainda não havia publicação; o estado atual do GitHub é descrito nesta página e no changelog.
 
-## ETLR-MO-02 — Motor contextual lógico-relacional (experimental)
-
-O projeto disponibiliza uma **implementação experimental executável** do ciclo de investigação *Constituir → Confrontar → Reconstituir → Retornar*, acompanhada de linguagem declarativa ETLR-L0, ensaios automatizados e discussão de reprodução funcional condicionada.
-
-- **[Acessar o motor e o guia de execução](experiments/ETLR-MO-02/README.md)**
-- **[Arquitetura relacional e suas funções](experiments/ETLR-MO-02/ARQUITETURA_RELACIONAL.md)**
-- **[Artigo técnico-experimental v0.1](experiments/ETLR-MO-02/ARTIGO_EXPERIMENTAL_v0_1.md)**
-
-Os exemplos examinam limites contextuais, manifestações, reentrada e reprodução de componentes *dentro de um modelo sintético*, sem alegar autogeração universal ou validação empírica da ETLR. O **código-fonte, os testes e os exemplos executáveis do ETLR-MO-02** estão, na revisão atual, sob **[PolyForm Noncommercial 1.0.0](experiments/ETLR-MO-02/LICENSE)**, com [aviso de direitos](experiments/ETLR-MO-02/NOTICE). O Volume I mantém **CC BY-NC-ND 4.0**, e os textos científicos autônomos não são relicenciados como software. As permissões das versões anteriormente publicadas sob MIT não são revogadas retroativamente; consulte a [nota de direitos](experiments/ETLR-MO-02/NOTA_DE_DIREITOS.md).
-
-## Acesso à obra
-
-A **edição candidata EDIT-02 R4** já está disponível para leitura no repositório. Trata-se de uma versão em revisão, **não da edição definitiva homologada**.
-
-📖 **[Ler o Volume I da ETLR — edição candidata](ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html)**
-
-Os documentos históricos, as transcrições privadas e os relatórios internos de auditoria **não fazem parte desta distribuição pública**.
-
-## Citação e versões
-
-**Título para referência:** *Teoria da Constituição e Transformação Relacional: Álgebra Espaço-Temporal Lógico-Relacional (ETLR). Volume I — Constituição, fronteira e continuidade do indivíduo*.
-
-**Autoria para citação:** a confirmar na folha de rosto da edição aprovada.
-
-**ORCID informado para identificação autoral:** [0009-0002-5522-6982](https://orcid.org/0009-0002-5522-6982).
-
-**Versão:** edição pública a homologar. A data definitiva, o número de versão e eventual DOI serão informados juntamente com o depósito aprovado. Não atribua DOI ou data de publicação a esta versão preparatória.
-
-Correções e atualizações posteriores serão identificadas por versão; a publicação de uma revisão não altera retroativamente as versões arquivadas.
-
-## Autoria e assistência por inteligência artificial
-
-**Autoria científica e direção intelectual:** **Ravena Bazzotti Minussi** ([ORCID 0009-0002-5522-6982](https://orcid.org/0009-0002-5522-6982)).
-
-**Assistência computacional e metodológica:** **ChatGPT (OpenAI)**, empregado ao longo da investigação como ferramenta de apoio à exploração e ao confronto de hipóteses, à elaboração e revisão textual, à organização documental, à formalização candidata, à programação e à construção de testes e análises experimentais. O escopo da assistência varia entre documentos e experimentos; modelos, versões e procedimentos específicos devem ser identificados nos respectivos registros metodológicos, quando disponíveis.
-
-A responsabilidade pela concepção, seleção, revisão, interpretação e apresentação científica da ETLR permanece com sua autora. Resultados produzidos com auxílio de IA exigem verificação e validação próprias; a assistência computacional **não equivale a demonstração científica independente**. O ChatGPT não figura como coautor científico, e sua menção **não implica endosso, participação institucional ou validação da obra pela OpenAI**.
-
-## Licença e direitos autorais
-
-**Licença confirmada para o texto autoral e as figuras originais do Volume I:** [Creative Commons Atribuição–NãoComercial–SemDerivações 4.0 Internacional (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt-br). Consulte também o arquivo [`LICENSE`](LICENSE) e o [texto jurídico oficial da licença](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
-
-A CC BY-NC-ND 4.0 permite o compartilhamento não comercial do material licenciado com atribuição, mas não autoriza compartilhar adaptações sem permissão adicional. Citações e demais utilizações permitidas pela legislação aplicável permanecem sujeitas às exceções legais. A licença não concede exclusividade sobre ideias, métodos, hipóteses ou princípios matemáticos descritos na obra.
-
-Materiais de terceiros, se incluídos, deverão conservar suas próprias atribuições e condições de uso. Eventual código-fonte ou software será tratado separadamente, com licença apropriada ao respectivo material.
-
-## Discussão e correções
-
-Comentários acadêmicos, questionamentos sobre hipóteses, identificação de possíveis erros e propostas de testes discriminantes podem ser registrados nas **Issues** do repositório, quando esse recurso estiver habilitado. Uma sugestão não representa alteração automaticamente aprovada do manuscrito.
-
-Para propostas de uso, adaptação ou republicação não abrangidas pela licença confirmada, utilize o canal de contato que será informado na edição pública.
-
----
-
-*ETLR — pesquisa independente. Esta página descreve uma obra em revisão editorial e não constitui anúncio de depósito, certificação de resultados ou publicação já realizada.*
-A contribuição proposta pela ETLR não reside na reivindicação de originalidade isolada dos conceitos de indivíduo, relação, fronteira, composição ou continuidade, mas em sua articulação em um quadro lógico-relacional comum. Nesse quadro, constituição interna, manifestação externa, potencialidades, transformações, proveniência histórica e organização multiescalar são investigadas como dimensões interdependentes da individuação. A originalidade dessa integração deverá ser examinada tanto por sua coerência formal quanto por sua capacidade de produzir distinções, critérios e resultados não obtidos pelas formulações consideradas isoladamente.
-
-### Acessar a obra
-
-📚 **[Ir para o Volume I — Constituição, fronteira e continuidade do indivíduo](ETLR_Volume_I_EDIT02_R4_AUTONOMA_CANDIDATA.html)**
-
-*Edição candidata EDIT-02 R4; sujeita à revisão editorial final.*
-*Disclaimer, Nota de escopo científico — Aplicações generativas
-
-*A Álgebra Espaço-Temporal Lógico-Relacional (ETLR) não se apresenta como uma teoria generativa, tampouco tem como finalidade imediata fundamentar a construção de sistemas generativos.
-
-*Entretanto, sua investigação sobre constituição, relações, transformação, história e continuidade organizacional abre possibilidades para estudos futuros sobre os processos históricos e recursivos de construção intelectual.
-
-*Nesse contexto, a ETLR pode contribuir para identificar e formalizar condições, estruturas e padrões relacionados à elaboração intelectual, inclusive quando esta envolve retomadas, reconstruções e transformações sucessivas de conhecimentos anteriores.
-
-*Essas possíveis aplicações constituem desdobramentos investigativos, não resultados universais já demonstrados nem finalidades necessárias da presente obra.
-
-## Trabalhos científicos derivados da ETLR — Volume I
-
-| Trabalho derivado | Núcleo do Volume I | Público acadêmico |
-|---|---|---|
-| **Fundamentos da individuação lógico-relacional** | ETLR-00 a ETLR-03 | Filosofia da ciência, ontologia e filosofia dos sistemas |
-| **Composição, interfaces e projeção entre escalas** | ETLR-06 a ETLR-09 | Matemática aplicada, teoria dos sistemas e ciência da complexidade |
-| **Continuidade, fechamento e reparabilidade organizacional** | ETLR-10 e ETLR-11 | Biologia teórica, sistemas autônomos e inteligência artificial |
+Discussões e correções: [Issues](https://github.com/AksanaFR/ETLR/issues).

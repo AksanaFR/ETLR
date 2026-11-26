@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+TESTES_EXECUCAO.txt
+RESULTADOS.json
+.DS_Store

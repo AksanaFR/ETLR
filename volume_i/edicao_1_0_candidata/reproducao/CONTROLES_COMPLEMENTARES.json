@@ -1,0 +1,118 @@
+{
+  "monitor_duas_obrigacoes_palavras_eventualmente_periodicas": {
+    "comparacoes": 14280,
+    "periodos": "todos de comprimento 1–4 sobre etiquetas 0,1,2,3",
+    "prefixos": "todos de comprimento 0–2",
+    "indices_iniciais": [
+      0,
+      1
+    ],
+    "bit_inicial": 0
+  },
+  "buchi_produto_duas_obrigacoes": {
+    "jogos_amostrados": 48,
+    "segurancas_por_jogo": 4,
+    "comparacoes": 192,
+    "politicas_enumeradas": 33612,
+    "semente": 26052026,
+    "estados_produto": 8,
+    "oraculo": "Enumeração de políticas e detecção de ciclos por remoção de sumidouros; não usa ν/μ"
+  },
+  "modelos_recalculados": {
+    "P06_2": [
+      8,
+      12
+    ],
+    "P06_3": [
+      2,
+      8
+    ],
+    "P08_5": 8,
+    "P10_7_tracos": [
+      [
+        [
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ]
+    ]
+  },
+  "M11_distancias": {
+    "000": null,
+    "001": null,
+    "010": 2,
+    "011": 1,
+    "100": 2,
+    "101": 1,
+    "110": 1,
+    "111": 0
+  },
+  "avaliacoes_IO": {
+    "S": 1,
+    "V": 211,
+    "?": 31
+  },
+  "status": "SEM_DIVERGENCIA_NOS_CASOS_EXECUTADOS",
+  "tempo_segundos": 0.497,
+  "limites": "Controle sintético com duas obrigações e jogos pequenos amostrados; não prova todos os jogos, informação parcial, prazo físico, infinitude ou adequação constitutiva."
+}

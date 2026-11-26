@@ -1,0 +1,92 @@
+[
+  {
+    "id": "E05-01",
+    "severidade": "S3 — editorial",
+    "objeto": "Identificação e estado da edição",
+    "decisao": "Atualizar título, base, encerramento e capítulos de rastreabilidade para VI05; autorização de execução não homologa o texto."
+  },
+  {
+    "id": "E05-02",
+    "severidade": "S3 — expositiva",
+    "objeto": "Notação antes dos modelos",
+    "decisao": "Definir operações booleanas, conjuntos, projeções, funções parciais e convenções de índice antes da primeira aplicação."
+  },
+  {
+    "id": "E05-03",
+    "severidade": "S3 — premissas/exposição",
+    "objeto": "Domínios e contratos",
+    "decisao": "Explicitar finitude efetiva do alfabeto no procedimento, operações parciais, escolhas e monitor; nenhuma extensão de garantias."
+  },
+  {
+    "id": "E05-04",
+    "severidade": "S3 — expositiva",
+    "objeto": "Grafos, recorrência e ordem",
+    "decisao": "Definir SCC/Büchi e μ/ν; distinguir aciclicidade de bem-fundação e existência de trajetória de estratégia robusta."
+  },
+  {
+    "id": "E05-05",
+    "severidade": "S2 — atribuição",
+    "objeto": "Fonte de P09.3",
+    "decisao": "Retirar B17 como apoio específico ao emparelhamento/identidade; manter demonstração elementar e classificação conhecida."
+  },
+  {
+    "id": "E05-06",
+    "severidade": "S2 — atribuição/alcance",
+    "objeto": "Função das fontes",
+    "decisao": "Distinguir antecedente, contexto, metadados e acesso parcial; B07/B15 não localizam literalmente SCC e cotas de P11.3."
+  },
+  {
+    "id": "E05-07",
+    "severidade": "S2 — alcance do enunciado",
+    "objeto": "PVI02.4 e C4",
+    "decisao": "Restringir a conclusão abreviada a C1–C3; C4 segue obrigação de modelagem já ressalvada na prova."
+  },
+  {
+    "id": "E05-08",
+    "severidade": "S3 — notação",
+    "objeto": "Glossário histórico e convenção atual",
+    "decisao": "Conservar 42 IDs e alinhar Env, V_ref, W, atributos e ligação ao corpo, registrando as grafias históricas."
+  },
+  {
+    "id": "E05-09",
+    "severidade": "Decisão crítica sem reclassificação",
+    "objeto": "Classificação 12/27/11",
+    "decisao": "Reexaminar individualmente e manter as categorias como papéis no corpus, sem originalidade matemática externa inferida."
+  },
+  {
+    "id": "E05-10",
+    "severidade": "S3 — alcance",
+    "objeto": "Positividade e Zeno",
+    "decisao": "Explicitar que a ressalva geral não afirma Zeno no fragmento finito com durações fixas positivas em domínio finito."
+  },
+  {
+    "id": "E05-11",
+    "severidade": "S3 — dependências",
+    "objeto": "Premissas lógicas e apoios expositivos",
+    "decisao": "Acrescentar campo novo de dependências do argumento e conservar integralmente o campo VI04; remover apoios não necessários desse novo campo."
+  },
+  {
+    "id": "E05-12",
+    "severidade": "S3 — autonomia",
+    "objeto": "INV, AS e AR completos",
+    "decisao": "Reabrir as tabelas exatas do rev14 e reproduzir seus 26 candidatos com proveniência; não promover a axiomas universais."
+  },
+  {
+    "id": "E05-13",
+    "severidade": "Atualização de evidência",
+    "objeto": "Controles executados",
+    "decisao": "Separar reprodução VI02/03, execução complementar VI05, prova e leitura documental; preservar os programas recebidos."
+  },
+  {
+    "id": "E05-14",
+    "severidade": "S3 — editorial",
+    "objeto": "Índices, glossário e apresentação",
+    "decisao": "Criar índices de 50 resultados/provas, definições e candidatos; HTML local e PDF submetidos a verificações registradas separadamente."
+  },
+  {
+    "id": "E05-15",
+    "severidade": "Limites abertos",
+    "objeto": "Perspectivas críticas e avaliação externa",
+    "decisao": "Acrescentar exame matemático, epistemológico/ontológico e científico/editorial interno; inventário de pendências sem reconstruir G01–G20."
+  }
+]
