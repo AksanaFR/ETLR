@@ -108,21 +108,33 @@ Materiais de terceiros conservam suas próprias atribuições e condições de u
 
 ## Citação e versões
 
-**Título:** *Teoria da Constituição e Transformação Relacional: Álgebra Espaço-Temporal Lógico-Relacional (ETLR). Volume I — Constituição e transformação relacional do indivíduo*.
+**Título no Zenodo:** *Teoria da Constituição e Transformação Relacional — Álgebra Espaço-Temporal Lógico-Relacional (ETLR). Volume I: Constituição e transformação relacional do indivíduo*.
 
 **Autoria científica:** Ravena Bazzotti Minussi ([ORCID 0009-0002-5522-6982](https://orcid.org/0009-0002-5522-6982)). **Identificação:** pesquisa independente, sem afiliação institucional declarada.
 
-**Versão:** 1.0 CANDIDATA. A forma bibliográfica definitiva e os metadados do depósito Zenodo ainda serão confirmados; não há DOI atribuído a esta edição.
+**Versão:** 1.0 CANDIDATA. Depósito público no Zenodo, publicado em **27 de novembro de 2026**. O registro identifica a autora como **Bazzotti Minussi, Ravena**, com o mesmo ORCID, sem afiliação institucional informada. O depósito não altera o estatuto científico de edição candidata.
+
+- [Registro público no Zenodo](https://zenodo.org/records/24586496).
+- **DOI desta versão:** [10.5281/zenodo.24586496](https://doi.org/10.5281/zenodo.24586496).
+- **DOI conceitual (conjunto de versões):** [10.5281/zenodo.24586495](https://doi.org/10.5281/zenodo.24586495). Para citar os bytes desta edição, use o DOI de versão acima.
+
+**Citação desta versão, conforme os metadados do depósito:**
+
+Bazzotti Minussi, Ravena. (2026). *Teoria da Constituição e Transformação Relacional — Álgebra Espaço-Temporal Lógico-Relacional (ETLR). Volume I: Constituição e transformação relacional do indivíduo* (Versão 1.0 CANDIDATA). Zenodo. https://doi.org/10.5281/zenodo.24586496
+
+**Divergência de licença:** na verificação de 27 de novembro de 2026, os metadados públicos do [Zenodo](https://zenodo.org/records/24586496) informam **CC BY 4.0** (`cc-by-4.0`), enquanto o [LICENSE](LICENSE) deste repositório declara **CC BY-NC-ND 4.0** para o texto autoral e as figuras originais do Volume I. As declarações divergem; esta atualização registra a diferença sem conciliá-la ou alterar as licenças existentes, o PDF ou o depósito. Os escopos e as pendências de licença dos códigos e suplementos permanecem como descritos acima.
 
 Correções e atualizações posteriores serão identificadas por versão; a publicação de uma revisão não altera retroativamente as versões arquivadas.
 
-## PDF comum ao GitHub e ao futuro Zenodo
+## PDF comum ao GitHub e ao Zenodo
 
 O PDF publicado tem 97 páginas, 1.428.119 bytes e SHA-256:
 
 `f46ce895aabce180a39df328f64785daae0fef1682e6ebc71f5dea120f821ad7`
 
-O futuro depósito deverá usar exatamente esses bytes, sem reimpressão. Nenhum depósito Zenodo ou DOI foi criado. Os guias internos da seleção conservam o registro histórico da preparação VI06A, quando ainda não havia publicação; o estado atual do GitHub é descrito nesta página e no changelog.
+Em 27 de novembro de 2026, o [PDF depositado no Zenodo](https://zenodo.org/api/records/24586496/files/VOLUME_I_ETLR_EDICAO_1_0_CANDIDATA.pdf/content) e o [PDF público no GitHub Pages](https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/VOLUME_I_ETLR_EDICAO_1_0_CANDIDATA.pdf) foram baixados e comparados byte a byte com o PDF deste repositório: os três arquivos são idênticos, com 97 páginas, 1.428.119 bytes e o SHA-256 acima. O PDF foi preservado, sem reimpressão.
+
+Os guias internos da seleção e o próprio PDF conservam o registro histórico da preparação VI06A, quando ainda não havia publicação; o estado atual do depósito é descrito nesta página e no registro Zenodo.
 
 ## Discussão e correções
 
