@@ -1,0 +1,125 @@
+{
+  "edicao": "1.1 CANDIDATA",
+  "base_commit": "ec3c63bc6687d1116c73d74612915fc702433090",
+  "autorizacao": "Publicação no GitHub autorizada pela autora após entrega da candidata; estatuto científico permanece candidato.",
+  "doi_1_1_informado_pela_autora": "10.5281/zenodo.24612954",
+  "doi_1_0_preservado": "10.5281/zenodo.24586496",
+  "Zenodo": "Não acessado ou modificado. Metadados e identidade de bytes do depósito 1.1 não conferidos.",
+  "pdf": {
+    "arquivo": "VOLUME_I_ETLR_EDICAO_1_1_CANDIDATA.pdf",
+    "sha256": "41437142c6c56e1c828aaaab0d9b3162fe17304b6c7040884fc718587d0cf922",
+    "bytes": 1446163,
+    "paginas": 98,
+    "identico_a_candidata_avaliada": false,
+    "reimpresso_para_publicacao": false,
+    "extracao": {
+      "literal_autoral_extraido": true,
+      "palavras_esperadas": 29748,
+      "palavras_ausentes": 0,
+      "caracteres_ausentes_incluindo_numeros_simbolos": {},
+      "formulas_criticas": {
+        "H(Z)=μY.[(B∩V∩CPre(Z))∪(V∩CPre(Y))]": true,
+        "Wrec=νZ.H(Z)": true,
+        "CPre_X(P⁻¹Z)=P⁻¹(CPre_Y(Z))": true,
+        "ker(m)⊆ker(f)": true,
+        "∅≠": true,
+        "|J|·|C|": true,
+        "2^{-n}": true
+      },
+      "glifos_substituicao": {},
+      "conteudo_fora_folha": []
+    },
+    "inspecao_visual": "As 98 páginas renderizadas a 55 dpi são idênticas pixel a pixel às páginas da candidata anteriormente inspecionada; a extração integral também é idêntica por página. Somente URIs dos links foram corrigidas. Registro em CORRECAO_LINKS_PDF.json.",
+    "referencias_e_notas_internas": "Estado histórico da preparação, anterior à autorização de publicação e à informação posterior do DOI 1.1.",
+    "conteudo_e_aparencia_identicos_a_candidata": true,
+    "sha256_preparacao_anterior": "74840e8e4d692cd74d4ad231ae6d1f22f8ea9db1f00e008504d2b8f9dd93bcbc",
+    "correcao_links_locais": 120
+  },
+  "markdown": {
+    "arquivo": "VOLUME_I_ETLR_EDICAO_1_1_CANDIDATA.md",
+    "sha256": "35c3332fccce70f7f2b0a7ed7564201457cb81eb2da3a4e9f7894a7921260ad0",
+    "adaptacao_posterior": "Somente destinos de links relativos, conservando integralmente o texto científico da candidata."
+  },
+  "html": {
+    "arquivo": "VOLUME_I_ETLR_EDICAO_1_1_CANDIDATA.html",
+    "sha256": "af10b7ca82cb143996849bfb3c2cd9e811d0623a02d3c27b38ef67c981f1bcf9",
+    "adaptacao_posterior": "Navegação e apresentação do estado editorial. Corpo científico preservado; PDF não reimpresso."
+  },
+  "navegacao": {
+    "verificacoes": [
+      {
+        "arquivo": "index.html",
+        "links_locais_ausentes": [],
+        "ids_duplicados": [],
+        "overflow_desktop": false,
+        "overflow_mobile": false,
+        "tabelas": 0,
+        "tabelas_cientificas_iguais": true,
+        "texto_cientifico_igual_a_candidata": true,
+        "resultados": 0,
+        "provas": 0
+      },
+      {
+        "arquivo": "volume_i/edicao_1_1_candidata/VOLUME_I_ETLR_EDICAO_1_1_CANDIDATA.html",
+        "links_locais_ausentes": [],
+        "ids_duplicados": [],
+        "overflow_desktop": false,
+        "overflow_mobile": false,
+        "tabelas": 16,
+        "tabelas_cientificas_iguais": true,
+        "texto_cientifico_igual_a_candidata": true,
+        "resultados": 50,
+        "provas": 50
+      },
+      {
+        "arquivo": "volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+        "links_locais_ausentes": [],
+        "ids_duplicados": [],
+        "overflow_desktop": false,
+        "overflow_mobile": false,
+        "tabelas": 1,
+        "tabelas_cientificas_iguais": true,
+        "texto_cientifico_igual_a_candidata": true,
+        "resultados": 50,
+        "provas": 0
+      },
+      {
+        "arquivo": "volume_i/edicao_1_1_candidata/README.html",
+        "links_locais_ausentes": [],
+        "ids_duplicados": [],
+        "overflow_desktop": false,
+        "overflow_mobile": false,
+        "tabelas": 0,
+        "tabelas_cientificas_iguais": true,
+        "texto_cientifico_igual_a_candidata": true,
+        "resultados": 0,
+        "provas": 0
+      },
+      {
+        "arquivo": "README.md",
+        "links_locais_ausentes": []
+      },
+      {
+        "arquivo": "volume_i/edicao_1_1_candidata/CHANGELOG.md",
+        "links_locais_ausentes": []
+      },
+      {
+        "arquivo": "volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.md",
+        "links_locais_ausentes": []
+      },
+      {
+        "arquivo": "volume_i/edicao_1_1_candidata/README.md",
+        "links_locais_ausentes": []
+      },
+      {
+        "arquivo": "volume_i/edicao_1_1_candidata/VOLUME_I_ETLR_EDICAO_1_1_CANDIDATA.md",
+        "links_locais_ausentes": []
+      }
+    ],
+    "recursos_remotos": [],
+    "erros_js": [],
+    "escopo": "Novos HTML, índice principal, Markdown novos e README raiz; URLs externas não acessadas."
+  },
+  "matriz_csv_json": "Idênticos à 1.0; vista HTML/MD adapta apenas apresentação e links. Localizadores históricos preservados, com CSV auxiliar específico da candidata.",
+  "limites": "Preservação documental e apresentação; sem reabertura matemática, execução de motores ou validação empírica nova."
+}

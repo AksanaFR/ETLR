@@ -6,7 +6,7 @@
 
 **Ravena Bazzotti Minussi** · Pesquisa independente · [ORCID 0009-0002-5522-6982](https://orcid.org/0009-0002-5522-6982)
 
-> **Estado editorial:** edição científica 1.0 CANDIDATA, disponível publicamente. Não equivale a edição definitiva homologada, validação empírica ou revisão externa independente. A originalidade externa não está estabelecida.
+> **Estado editorial:** edição científica 1.1 CANDIDATA, revisão editorial do enquadramento científico; edição 1.0 preservada e disponível publicamente. Não equivale a edição definitiva homologada, validação empírica ou revisão externa independente. A originalidade externa não está estabelecida.
 
 ## Apresentação
 
@@ -26,7 +26,7 @@ A contribuição proposta pela ETLR não reside na reivindicação de originalid
 
 A primeira edição científica candidata reúne e integra as investigações ETLR-00 a ETLR-11, desenvolvidas em torno da constituição interna e externa, das fronteiras e campos relacionais, das relações e transformações, da composição entre escalas e das condições de continuidade organizacional. O manuscrito combina discussão conceitual, formalização progressiva, demonstrações condicionais e contramodelos.
 
-A edição atual sucede a EDIT-02 R4 e compreende 97 páginas em PDF, com 50 resultados científicos rastreáveis. A revisão interna não substitui avaliação científica externa.
+A edição 1.1 CANDIDATA revisa o enquadramento científico da 1.0 e compreende 98 páginas em PDF, preservando os 50 resultados científicos rastreáveis. A edição 1.0, de 97 páginas, permanece acessível com seus bytes e DOI próprios. A revisão interna não substitui avaliação científica externa.
 
 ## Como ler os resultados
 
@@ -45,6 +45,18 @@ A obra é um **programa de pesquisa em desenvolvimento**, não uma teoria univer
 Os 50 registros compreendem 12 resultados de matemática conhecida, 27 aplicações e 11 integrações internas, condicionais às premissas. CAL-01 permanece literal. H1–H3, suficiência dos IO candidatos e autogeração forte permanecem abertas. Os controles são sintéticos e delimitados; não constituem prova mecanizada dos cinquenta resultados nem validação de domínios físicos, mentais ou espirituais/astrais.
 
 ## Leitura e suplementos
+
+### Revisão editorial 1.1 CANDIDATA
+
+- [Volume integral HTML](volume_i/edicao_1_1_candidata/VOLUME_I_ETLR_EDICAO_1_1_CANDIDATA.html) · [PDF, 98 páginas](volume_i/edicao_1_1_candidata/VOLUME_I_ETLR_EDICAO_1_1_CANDIDATA.pdf) · [Markdown](volume_i/edicao_1_1_candidata/VOLUME_I_ETLR_EDICAO_1_1_CANDIDATA.md).
+- [Guia da revisão](volume_i/edicao_1_1_candidata/README.html) · [Matriz de navegação](volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html) · [Localizadores](volume_i/edicao_1_1_candidata/LOCALIZADORES_CANDIDATA.csv) · [Alterações](volume_i/edicao_1_1_candidata/CHANGELOG.md) · [Verificação dos formatos](volume_i/edicao_1_1_candidata/VERIFICACAO_FORMATOS.json) · [Hashes](volume_i/edicao_1_1_candidata/SHA256SUMS.txt).
+
+A ETLR investiga se uma estrutura organizada a partir dos fundamentos relacionais de espaço, tempo e indivíduo, mediante suas diferentes composições, funções e transformações multiescalares, é capaz de produzir conhecimento sobre princípios comuns de constituição, interação e organização em diferentes domínios da realidade.
+
+O PDF 1.1 preserva conteúdo e aparência da candidata avaliada e suas notas históricas de preparação. Somente 120 destinos de links locais foram corrigidos para HTTPS, sem reimpressão; a alteração e os hashes estão registrados na edição. A publicação desta revisão no GitHub foi autorizada posteriormente. A autora informou o DOI [10.5281/zenodo.24612954](https://doi.org/10.5281/zenodo.24612954) para a referência da edição 1.1. O DOI de versão 1.0 informado adiante permanece exclusivo da 1.0. Nenhum acesso ou alteração no Zenodo foi realizado nesta atualização.
+
+### Edição 1.0 e suplementos históricos
+
 
 - [Página principal](https://aksanafr.github.io/ETLR/) · [Volume integral HTML](volume_i/edicao_1_0_candidata/VOLUME_I_ETLR_EDICAO_1_0_CANDIDATA.html) · [PDF, 97 páginas](volume_i/edicao_1_0_candidata/VOLUME_I_ETLR_EDICAO_1_0_CANDIDATA.pdf) · [Markdown](volume_i/edicao_1_0_candidata/VOLUME_I_ETLR_EDICAO_1_0_CANDIDATA.md).
 - [Índice científico](volume_i/edicao_1_0_candidata/INDICE_CIENTIFICO.html) · [Guia da seleção editorial](volume_i/edicao_1_0_candidata/README.html) · [Glossário](volume_i/edicao_1_0_candidata/GLOSSARIO.html).
@@ -108,6 +120,17 @@ Materiais de terceiros conservam suas próprias atribuições e condições de u
 
 ## Citação e versões
 
+### Revisão editorial 1.1 CANDIDATA
+
+**DOI informado pela autora para esta revisão:** [10.5281/zenodo.24612954](https://doi.org/10.5281/zenodo.24612954).
+
+Referência editorial: Bazzotti Minussi, Ravena. (2026). *Teoria da Constituição e Transformação Relacional — Álgebra Espaço-Temporal Lógico-Relacional (ETLR). Volume I: Constituição e transformação relacional do indivíduo* (Versão 1.1 CANDIDATA). Zenodo. https://doi.org/10.5281/zenodo.24612954
+
+O DOI foi fornecido pela autora após a preparação do PDF candidato. Esta atualização não acessou o Zenodo nem conferiu os metadados ou a identidade de bytes do arquivo depositado. O PDF 1.1 disponibilizado aqui tem 98 páginas e preserva o conteúdo e a aparência da candidata avaliada, com correção exclusiva dos destinos de 120 links locais; SHA-256 `41437142c6c56e1c828aaaab0d9b3162fe17304b6c7040884fc718587d0cf922`; suas notas sobre preparação local e ausência de novo DOI são históricas.
+
+### Edição 1.0 CANDIDATA — registro histórico
+
+
 **Título no Zenodo:** *Teoria da Constituição e Transformação Relacional — Álgebra Espaço-Temporal Lógico-Relacional (ETLR). Volume I: Constituição e transformação relacional do indivíduo*.
 
 **Autoria científica:** Ravena Bazzotti Minussi ([ORCID 0009-0002-5522-6982](https://orcid.org/0009-0002-5522-6982)). **Identificação:** pesquisa independente, sem afiliação institucional declarada.
@@ -126,7 +149,7 @@ Bazzotti Minussi, Ravena. (2026). *Teoria da Constituição e Transformação Re
 
 Correções e atualizações posteriores serão identificadas por versão; a publicação de uma revisão não altera retroativamente as versões arquivadas.
 
-## PDF comum ao GitHub e ao Zenodo
+## PDF histórico 1.0 comum ao GitHub e ao Zenodo
 
 O PDF publicado tem 97 páginas, 1.428.119 bytes e SHA-256:
 

@@ -1,0 +1,495 @@
+{
+  "sha256_pdf_candidato_avaliado": "74840e8e4d692cd74d4ad231ae6d1f22f8ea9db1f00e008504d2b8f9dd93bcbc",
+  "sha256_pdf_publico": "41437142c6c56e1c828aaaab0d9b3162fe17304b6c7040884fc718587d0cf922",
+  "bytes_pdf_publico": 1446163,
+  "paginas": 98,
+  "links_locais_corrigidos": 120,
+  "texto_extraido_integral_por_pagina_identico": true,
+  "paginas_renderizadas_pixels_identicos_a_candidata_inspecionada": 98,
+  "dpi_comparacao": 55,
+  "reimpressao": false,
+  "alteracao": "Somente ações URI de links file: para destinos HTTPS públicos. Conteúdo, provas, tabelas, paginação e aparência preservados. Os bytes e o hash mudaram; não se afirma identidade com o PDF da preparação ou com o depósito Zenodo.",
+  "destinos_publicos": [
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-VI00-U00"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-VI00-U00"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-VI00-U01"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-VI00-U01"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P02-1"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P02-1"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P02-2"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P02-2"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P03-1"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P03-1"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P02-3"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P02-3"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P02-3"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-2"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-2"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-2"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P08-1"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P08-1"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P08-1"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P08-2"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P08-2"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P08-3"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P08-3"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P03-2"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P03-2"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P04-2"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P04-2"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P04-1"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P04-1"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P08-4"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P08-4"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P08-4"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P07-2"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P07-2"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P07-2"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P06-4"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P06-4"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P07-1"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P07-1"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P07-3"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P07-3"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P05-1"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P05-1"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P05-2"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P05-2"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P06-1"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P06-1"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P06-1"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P05-3"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P05-3"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P06-2"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P06-2"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P06-2"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P06-3"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P06-3"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P06-3"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P08-5"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P08-5"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P08-5"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-1"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P09-1"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-2"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P09-2"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P09-2"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-3"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P09-3"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-4"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P09-4"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-5"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P09-5"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P09-5"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-6"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P09-6"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P09-6"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-1"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-1"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-2"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-2"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-2"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-3"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-3"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-3"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-4"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-4"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-4"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-5"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-5"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-6"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-6"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-6"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-7"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-7"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-8"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-8"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-8"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-1"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-1"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-1"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-3"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-3"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-4"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-4"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-5"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-5"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-5"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-6"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-6"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-6"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-7"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-7"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-8"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-8"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-PVI02-1"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-PVI02-1"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-PVI02-2"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-PVI02-2"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-PVI02-3"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-PVI02-3"
+    },
+    {
+      "arquivo": "MATRIZ_RASTREABILIDADE_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_1_candidata/MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-PVI02-4"
+    },
+    {
+      "arquivo": "AUDITORIA_50_RESULTADOS.html",
+      "destino": "https://aksanafr.github.io/ETLR/volume_i/edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-PVI02-4"
+    }
+  ],
+  "limites": "Comparação pixel a pixel em 55 dpi e extração integral por página, além da inspeção visual anterior. Nenhuma consulta ao Zenodo."
+}

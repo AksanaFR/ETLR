@@ -1,0 +1,433 @@
+--- volume_i/edicao_1_0_candidata/VOLUME_I_ETLR_EDICAO_1_0_CANDIDATA.md
++++ volume_i/edicao_1_1_candidata/VOLUME_I_ETLR_EDICAO_1_1_CANDIDATA.md
+@@ -3,11 +3,11 @@
+ **Teoria da Constituição e Transformação Relacional · Álgebra Espaço-Temporal Lógico-Relacional**
+ 
+-**Primeira edição científica 1.0 CANDIDATA · ETLR-VI-05 · preparação editorial VI06A**. A data de 26 de novembro de 2026 identifica a revisão VI05, sem constituir data de publicação.
+-
+-Edição integral revista internamente na ETLR-VI-05, com preparação editorial para circulação pública candidata na VI06A. A autorização para preparar esta edição não significa homologação autoral do conteúdo final. A base científica é o manuscrito e as matrizes VI04, com precisões e bibliografia VI03 e antecedentes por dependência. As três perspectivas de revisão são internas, realizadas nesta mesma investigação assistida; não constituem avaliações externas independentes. Os originais permanecem preservados em acervo privado. A edição encerra o primeiro ciclo como candidata; sua preparação não implica publicação ou início do Volume II.
++**Proposta de identificação editorial: 1.1 CANDIDATA · revisão de enquadramento científico · 27 de novembro de 2026.** Identificação e conteúdo submetidos à avaliação da autora; sem aprovação ou publicação presumidas. A base é a edição 1.0 CANDIDATA, revisão GitHub ec3c63bc6687d1116c73d74612915fc702433090.
++
++Esta revisão editorial delimitada explicita a finalidade investigativa da ETLR e preserva os resultados formais da edição 1.0 CANDIDATA. A revisão científica VI05 e a preparação VI06A são etapas históricas da base, datadas de 26 de novembro de 2026. As três perspectivas de revisão ali registradas são internas e não constituem avaliações externas independentes. O DOI 10.5281/zenodo.24586496 identifica a versão 1.0 depositada e seu PDF original; não identifica os bytes deste PDF revisado. Esta candidata 1.1 não possui novo DOI atribuído nesta preparação. A base científica VI04/VI05, as matrizes, os antecedentes e os limites documentais permanecem preservados. A preparação local não implica publicação, homologação autoral, execução de motores ou início do Volume II.
+ 
+ ## Resumo
+ 
+-A ETLR investiga espaço, tempo e indivíduo como candidatos a fatos relacionais fundamentais da constituição e transformação das organizações. Sua motivação histórico-filosófica procede da mitologia comparada, da investigação de sistemas de signos e da matriz sefirótica autoral, sem derivar desses antecedentes a verdade de uma ontologia. Este volume distingue a hipótese ontológica forte, a hipótese epistemológica e o uso metodológico da tríade. Desenvolve uma linguagem contextualizada para configurações, relações, admissibilidade, ocorrências, histórias e interfaces. A formalização usa relações tipadas, execuções com testemunhos, fatoração de tarefas e jogos finitos com escolhas controláveis e ambientais. Cinquenta resultados são integrados com suas hipóteses, argumentos e limites: doze classificados na VI03 como matemática conhecida, vinte e sete como aplicações e onze como integrações internas. As demonstrações esclarecem quando representações conservam composições, trajetórias, segurança, alcance e recorrência produtiva. Contramodelos separam manifestação de constituição, composição de individuação, renovação de reparabilidade, recorrência de prazo e equivalência de identidade. A contribuição interna consiste na articulação dessas obrigações em uma arquitetura de investigação rastreável. Originalidade externa permanece não estabelecida. Não há demonstração de universalidade ontológica, autogeração forte ou validação empírica. As lacunas documentais AD-01 autônomo, G01–G20 e contratos completos ARM suspendem as afirmações que delas dependem, sem invalidar os resultados formais delimitados.
++A ETLR investiga se uma estrutura organizada a partir dos fundamentos relacionais de espaço, tempo e indivíduo, mediante suas diferentes composições, funções e transformações multiescalares, é capaz de produzir conhecimento sobre princípios comuns de constituição, interação e organização em diferentes domínios da realidade. Sua finalidade não é substituir teorias particulares de domínio, mas investigar regularidades, correspondências, diferenças, limites e condições de transformação relacional. Espaço, tempo e indivíduo são investigados como candidatos a fatos relacionais fundamentais; o emprego de fundamentos relacionais na declaração de finalidade não estabelece sua necessidade, suficiência ou exclusividade ontológica. A origem histórico-filosófica inclui a matriz sefirótica autoral codificada em E/T/I e a linhagem QORELFlow; sua procedência não decide a validade dos resultados. Este volume distingue a hipótese ontológica forte, a hipótese epistemológica e o uso metodológico da tríade. Desenvolve uma linguagem contextualizada para configurações, relações, admissibilidade, ocorrências, histórias e interfaces. A formalização usa relações tipadas, execuções com testemunhos, fatoração de tarefas e jogos finitos com escolhas controláveis e ambientais. Cinquenta resultados são integrados com suas hipóteses, argumentos e limites: doze classificados na VI03 como matemática conhecida, vinte e sete como aplicações e onze como integrações internas. As demonstrações esclarecem quando representações conservam composições, trajetórias, segurança, alcance e recorrência produtiva. Contramodelos separam manifestação de constituição, composição de individuação, renovação de reparabilidade, recorrência de prazo e equivalência de identidade. A contribuição interna consiste na articulação dessas obrigações em uma arquitetura de investigação rastreável. Originalidade externa permanece não estabelecida. Não há demonstração de universalidade ontológica, autogeração forte ou validação empírica. As lacunas documentais AD-01 autônomo, G01–G20 e contratos completos ARM suspendem as afirmações que delas dependem, sem invalidar os resultados formais delimitados.
+ 
+ **Palavras-chave:** constituição relacional; espaço; tempo; indivíduo; representação; álgebra tipada; individuação; sustentação; jogos finitos; proveniência.
+@@ -15,5 +15,5 @@
+ ## Guia de leitura e notação
+ 
+-Os capítulos 1–3 distinguem origem dos problemas, hipóteses e linguagem. Os capítulos 4–6 desenvolvem composição e representação; 7–9 tratam individuação, sustentação e recorrência; 10 integra os certificados; 11–12 sintetizam contribuição e evidência. Os apêndices preservam matrizes, hipóteses e candidatos históricos, e acrescentam exame crítico e condições de avaliação externa. QOREL, ARM e ETLR-MO designam antecedentes ou instrumentos privados; nenhuma prova exige executar esses sistemas. A ausência dos contratos completos ARM impede certificar sua conformidade integral.
++Os capítulos 1–3 distinguem origem dos problemas, hipóteses e linguagem. Os capítulos 4–6 desenvolvem composição e representação; 7–9 tratam individuação, sustentação e recorrência; 10 integra os certificados; 11–12 sintetizam contribuição e evidência. Os apêndices preservam matrizes, hipóteses e candidatos históricos, e acrescentam exame crítico e condições de avaliação externa. QOREL, ARM e ETLR-MO designam antecedentes ou instrumentos privados; nenhuma prova exige executar esses sistemas. A ausência dos contratos completos ARM impede certificar sua conformidade integral. PM e MO designam protocolos investigativos, não fundamentos da ETLR. Exemplos físicos, inclusive analogias com campos de gauge, são recursos de confronto conceitual; não são premissas da teoria nem orientam a substituição de teorias particulares.
+ 
+ **Convenções formais usadas desde os primeiros modelos.** Os números 0 e 1 dos modelos booleanos são valores sintéticos. Em {0,1}, a∧b é 1 somente se ambos são 1; a∨b é 1 se ao menos um é 1; a⊕b é 1 se exatamente um é 1. Uma linha de atualização usa sempre o estado anterior, salvo declaração explícita em contrário; a prima x′ indica o resultado do passo. Uma oferta/entrada u é fixada pelo contrato, não inferida da observação. min e max indicam mínimo e máximo numéricos.
+@@ -50,11 +50,13 @@
+ ### 1.3 Matriz sefirótica e genealogia QOREL/ARM
+ 
+-A matriz sefirótica preservada em CAL-01 pertence à formulação autoral. O estudo histórico de diagramas exige distinguir tradições, versões e usos. O registro editorial de Chajes apresenta *The Kabbalistic Tree* como estudo histórico dos diagramas e identifica a edição de 2022. Essa identificação permite situar uma referência comparativa, sem homologar a matriz ETLR como doutrina tradicional única. O livro completo não foi examinado nesta passagem; tampouco se recuperou um corpus primário delimitado de Baal HaSulam ou Michael Laitman suficiente para equiparar cada termo autoral a uma passagem tradicional. [F04 — Chajes, registro editorial](https://www.psupress.org/books/titles/978-0-271-09345-1.html).
++A matriz sefirótica preservada em CAL-01 pertence à formulação autoral. Sua codificação em espaço, tempo e indivíduo integra a origem estrutural da investigação, também presente na linhagem QORELFlow: investigar se suas composições, funções e transformações permitem produzir conhecimento de princípios relacionais comuns. Essa origem é apresentada com transparência, sem afirmar equivalência universal com sistemas cabalísticos, validação de uma doutrina ou ontologia demonstrada. Os resultados científicos devem poder ser examinados independentemente da adesão à tradição de origem. O estudo histórico de diagramas exige distinguir tradições, versões e usos. O registro editorial de Chajes apresenta *The Kabbalistic Tree* como estudo histórico dos diagramas e identifica a edição de 2022. Essa identificação permite situar uma referência comparativa, sem homologar a matriz ETLR como doutrina tradicional única. O livro completo não foi examinado nesta passagem; tampouco se recuperou um corpus primário delimitado de Baal HaSulam ou Michael Laitman suficiente para equiparar cada termo autoral a uma passagem tradicional. [F04 — Chajes, registro editorial](https://www.psupress.org/books/titles/978-0-271-09345-1.html).
+ 
+ A sequência Ω, QOREL, ARM, QORELFlow e ETLR registra uma genealogia ampla de problemas e instrumentos no acervo privado. Não é uma cadeia causal única nem uma sucessão de teorias já validadas. Os documentos recuperados atribuem a esses programas responsabilidades de referência, articulação, contexto, retorno e validação, com mudanças de vocabulário. Preservar uma responsabilidade exige confrontar seu sentido nos dois contextos; nomes iguais não provam conservação. O K de uma arquitetura histórica não é automaticamente K0 da investigação, e um procedimento chamado “retorno” não é uma inversa matemática.
+ 
+-ETLR-MO é instrumento de investigação e, no enquadramento autoral, polo interno; a teoria ETLR é manifestação externa. Essa interpretação não prova equivalência entre código, teoria e realidade. O volume apresenta argumentos compreensíveis sem executar motores privados. A genealogia é preservada para reconhecer origem e dependências; as demonstrações formais não usam alegações físicas de Ω/QOREL como premissas ocultas. A compatibilidade com contratos completos ARM permanece sem certificação porque o conjunto documental necessário não foi recuperado inequivocamente.
++PM e MO são protocolos de investigação, não fundamentos de espaço, tempo e indivíduo. No enquadramento autoral, ETLR-MO é instrumento investigativo e polo interno; a teoria ETLR é manifestação externa. Essa interpretação não prova equivalência entre código, teoria e realidade. O volume apresenta argumentos compreensíveis sem executar motores privados. A genealogia é preservada para reconhecer origem e dependências; as demonstrações formais não usam alegações físicas de Ω/QOREL como premissas ocultas. A compatibilidade com contratos completos ARM permanece sem certificação porque o conjunto documental necessário não foi recuperado inequivocamente.
+ 
+ ### 1.4 Três hipóteses e três espécies de obrigação
++
++A finalidade geral articula as três hipóteses seguintes sem alterar seus conteúdos ou condições de avaliação. Investigar princípios comuns entre domínios é uma questão aberta; utilidade local, correspondência entre modelos e universalidade ontológica exigem justificações distintas. A estrutura formal deste volume fornece instrumentos para essa investigação e não antecipa seu resultado.
+ 
+ | Hipótese preservada | Conteúdo | O que a evidência presente permite |
+@@ -142,5 +144,5 @@
+ **Limite herdado:** ID de índice novo, não renumeração de resultado antigo.
+ 
+-**Rastreabilidade:** Integração interna; referências B09 B13. Fonte, linha 292: Caderno Científico ETLR(f1), rev14, linha 292 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-VI00-U00); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-VI00-U00). Originalidade externa não estabelecida.
++**Rastreabilidade:** Integração interna; referências B09 B13. Fonte, linha 292: Caderno Científico ETLR(f1), rev14, linha 292 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-VI00-U00); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-VI00-U00). Originalidade externa não estabelecida.
+ 
+ 
+@@ -163,5 +165,5 @@
+ **Limite herdado:** ID de índice novo, não renumeração de resultado antigo.
+ 
+-**Rastreabilidade:** Integração interna; referências B09 B17. Fonte, linha 394: Caderno Científico ETLR(f1), rev14, linha 394 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-VI00-U01); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-VI00-U01). Originalidade externa não estabelecida.
++**Rastreabilidade:** Integração interna; referências B09 B17. Fonte, linha 394: Caderno Científico ETLR(f1), rev14, linha 394 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-VI00-U01); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-VI00-U01). Originalidade externa não estabelecida.
+ 
+ 
+@@ -239,5 +241,5 @@
+ **Limite herdado:** Álgebra conhecida; não vale automaticamente para políticas com efeitos de agrupamento nem para CAL-01.
+ 
+-**Rastreabilidade:** Matemática conhecida; referências B01 B02. Fonte, linha 505: Caderno Científico ETLR(f1), rev14, linha 505 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P02-1); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P02-1). Originalidade externa não estabelecida.
++**Rastreabilidade:** Matemática conhecida; referências B01 B02. Fonte, linha 505: Caderno Científico ETLR(f1), rev14, linha 505 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P02-1); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P02-1). Originalidade externa não estabelecida.
+ 
+ 
+@@ -262,5 +264,5 @@
+ **Limite herdado:** Injetividade intermediária é suficiente, não necessária; igualdade é por extremos.
+ 
+-**Rastreabilidade:** Matemática conhecida; referências B03 B17. Fonte, linha 513: Caderno Científico ETLR(f1), rev14, linha 513 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P02-2); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P02-2). Originalidade externa não estabelecida.
++**Rastreabilidade:** Matemática conhecida; referências B03 B17. Fonte, linha 513: Caderno Científico ETLR(f1), rev14, linha 513 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P02-2); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P02-2). Originalidade externa não estabelecida.
+ 
+ 
+@@ -283,5 +285,5 @@
+ **Limite herdado:** Critério mais fraco que levantamento a partir de cada representante.
+ 
+-**Rastreabilidade:** Matemática conhecida; referências B03 B17. Fonte, linha 642: Caderno Científico ETLR(f1), rev14, linha 642 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P03-1); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P03-1). Originalidade externa não estabelecida.
++**Rastreabilidade:** Matemática conhecida; referências B03 B17. Fonte, linha 642: Caderno Científico ETLR(f1), rev14, linha 642 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P03-1); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P03-1). Originalidade externa não estabelecida.
+ 
+ 
+@@ -308,5 +310,5 @@
+ **Limite herdado:** Esquecimento de rótulos não apaga estado de junção; não conserva história individual.
+ 
+-**Rastreabilidade:** Aplicação; referências B01 B02. Fonte, linha 529: Caderno Científico ETLR(f1), rev14, linha 529 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P02-3); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P02-3). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B01 B02. Fonte, linha 529: Caderno Científico ETLR(f1), rev14, linha 529 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P02-3); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P02-3). Originalidade externa não estabelecida.
+ 
+ 
+@@ -329,5 +331,5 @@
+ **Limite herdado:** Cobertura esquece ordem/multiplicidade; não substitui log ou CAL-01.
+ 
+-**Rastreabilidade:** Aplicação; referências B01 B02. Fonte, linha 2326: Caderno Científico ETLR(f1), rev14, linha 2326 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-2); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P11-2). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B01 B02. Fonte, linha 2326: Caderno Científico ETLR(f1), rev14, linha 2326 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-2); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-2). Originalidade externa não estabelecida.
+ 
+ 
+@@ -354,5 +356,5 @@
+ **Limite herdado:** Associatividade lógica não é comutação temporal.
+ 
+-**Rastreabilidade:** Aplicação; referências B09. Fonte, linha 1226: Caderno Científico ETLR(f1), rev14, linha 1226 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P08-1); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P08-1). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B09. Fonte, linha 1226: Caderno Científico ETLR(f1), rev14, linha 1226 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P08-1); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P08-1). Originalidade externa não estabelecida.
+ 
+ 
+@@ -375,5 +377,5 @@
+ **Limite herdado:** Homogeneidade não necessária para cada R particular; exemplo de três estados não mínimo irrestrito.
+ 
+-**Rastreabilidade:** Integração interna; referências B03 B09. Fonte, linha 1253: Caderno Científico ETLR(f1), rev14, linha 1253 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P08-2); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P08-2). Originalidade externa não estabelecida.
++**Rastreabilidade:** Integração interna; referências B03 B09. Fonte, linha 1253: Caderno Científico ETLR(f1), rev14, linha 1253 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P08-2); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P08-2). Originalidade externa não estabelecida.
+ 
+ 
+@@ -404,5 +406,5 @@
+ **Limite herdado:** Informação adicional e nova observação mudam a representação; não há métrica semântica universal.
+ 
+-**Rastreabilidade:** Matemática conhecida; referências B17. Fonte, linha 1293: Caderno Científico ETLR(f1), rev14, linha 1293 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P08-3); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P08-3). Originalidade externa não estabelecida.
++**Rastreabilidade:** Matemática conhecida; referências B17. Fonte, linha 1293: Caderno Científico ETLR(f1), rev14, linha 1293 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P08-3); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P08-3). Originalidade externa não estabelecida.
+ 
+ 
+@@ -423,5 +425,5 @@
+ **Limite herdado:** Impossibilidade relativa à projeção e guarda, não inacessibilidade universal.
+ 
+-**Rastreabilidade:** Aplicação; referências B17. Fonte, linha 644: Caderno Científico ETLR(f1), rev14, linha 644 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P03-2); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P03-2). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B17. Fonte, linha 644: Caderno Científico ETLR(f1), rev14, linha 644 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P03-2); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P03-2). Originalidade externa não estabelecida.
+ 
+ 
+@@ -444,5 +446,5 @@
+ **Limite herdado:** Condição independente da uniformidade dinâmica.
+ 
+-**Rastreabilidade:** Matemática conhecida; referências B17. Fonte, linha 746: Caderno Científico ETLR(f1), rev14, linha 746 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P04-2); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P04-2). Originalidade externa não estabelecida.
++**Rastreabilidade:** Matemática conhecida; referências B17. Fonte, linha 746: Caderno Científico ETLR(f1), rev14, linha 746 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P04-2); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P04-2). Originalidade externa não estabelecida.
+ 
+ 
+@@ -467,5 +469,5 @@
+ **Limite herdado:** Não preserva probabilidades, duração nem história ausente do estado.
+ 
+-**Rastreabilidade:** Matemática conhecida; referências B17. Fonte, linha 738: Caderno Científico ETLR(f1), rev14, linha 738 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P04-1); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P04-1). Originalidade externa não estabelecida.
++**Rastreabilidade:** Matemática conhecida; referências B17. Fonte, linha 738: Caderno Científico ETLR(f1), rev14, linha 738 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P04-1); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P04-1). Originalidade externa não estabelecida.
+ 
+ 
+@@ -486,5 +488,5 @@
+ **Limite herdado:** Não enfraquece P04.1, que também tem necessidade; não conserva guarda por si.
+ 
+-**Rastreabilidade:** Aplicação; referências B17. Fonte, linha 1314: Caderno Científico ETLR(f1), rev14, linha 1314 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P08-4); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P08-4). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B17. Fonte, linha 1314: Caderno Científico ETLR(f1), rev14, linha 1314 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P08-4); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P08-4). Originalidade externa não estabelecida.
+ 
+ 
+@@ -507,5 +509,5 @@
+ **Limite herdado:** Presença abstrata não prova realização; ausência pode excluir comportamento compatível com a projeção.
+ 
+-**Rastreabilidade:** Aplicação; referências B03. Fonte, linha 1099: Caderno Científico ETLR(f1), rev14, linha 1099 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P07-2); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P07-2). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B03. Fonte, linha 1099: Caderno Científico ETLR(f1), rev14, linha 1099 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P07-2); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P07-2). Originalidade externa não estabelecida.
+ 
+ 
+@@ -530,5 +532,5 @@
+ **Limite herdado:** Não inclui automaticamente guardas trivalentes, tempo, identidade ou proveniência.
+ 
+-**Rastreabilidade:** Matemática conhecida; referências B06 B17. Fonte, linha 1027: Caderno Científico ETLR(f1), rev14, linha 1027 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P06-4); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P06-4). Originalidade externa não estabelecida.
++**Rastreabilidade:** Matemática conhecida; referências B06 B17. Fonte, linha 1027: Caderno Científico ETLR(f1), rev14, linha 1027 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P06-4); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P06-4). Originalidade externa não estabelecida.
+ 
+ 
+@@ -551,5 +553,5 @@
+ **Limite herdado:** Não misturar ações distintas nem concluir história ou identidade preservadas.
+ 
+-**Rastreabilidade:** Matemática conhecida; referências B17. Fonte, linha 1091: Caderno Científico ETLR(f1), rev14, linha 1091 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P07-1); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P07-1). Originalidade externa não estabelecida.
++**Rastreabilidade:** Matemática conhecida; referências B17. Fonte, linha 1091: Caderno Científico ETLR(f1), rev14, linha 1091 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P07-1); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P07-1). Originalidade externa não estabelecida.
+ 
+ 
+@@ -572,5 +574,5 @@
+ **Limite herdado:** Alternância livre rotulada; restrições de regime exigem monitor próprio.
+ 
+-**Rastreabilidade:** Integração interna; referências B06 B17. Fonte, linha 1105: Caderno Científico ETLR(f1), rev14, linha 1105 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P07-3); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P07-3). Originalidade externa não estabelecida.
++**Rastreabilidade:** Integração interna; referências B06 B17. Fonte, linha 1105: Caderno Científico ETLR(f1), rev14, linha 1105 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P07-3); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P07-3). Originalidade externa não estabelecida.
+ 
+ 
+@@ -597,5 +599,5 @@
+ **Limite herdado:** Não exige contração estrita; mudança de universo ou conteúdo invalida inferência automática.
+ 
+-**Rastreabilidade:** Matemática conhecida; referências B03. Fonte, linha 873: Caderno Científico ETLR(f1), rev14, linha 873 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P05-1); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P05-1). Originalidade externa não estabelecida.
++**Rastreabilidade:** Matemática conhecida; referências B03. Fonte, linha 873: Caderno Científico ETLR(f1), rev14, linha 873 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P05-1); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P05-1). Originalidade externa não estabelecida.
+ 
+ 
+@@ -616,5 +618,5 @@
+ **Limite herdado:** Não é revisão geral de crenças ou regras interdependentes.
+ 
+-**Rastreabilidade:** Aplicação; referências B03. Fonte, linha 875: Caderno Científico ETLR(f1), rev14, linha 875 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P05-2); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P05-2). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B03. Fonte, linha 875: Caderno Científico ETLR(f1), rev14, linha 875 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P05-2); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P05-2). Originalidade externa não estabelecida.
+ 
+ 
+@@ -635,5 +637,5 @@
+ **Limite herdado:** Exige memória de bloqueadores pertinente; não necessariamente história integral.
+ 
+-**Rastreabilidade:** Aplicação; referências B06 B17. Fonte, linha 994: Caderno Científico ETLR(f1), rev14, linha 994 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P06-1); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P06-1). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B06 B17. Fonte, linha 994: Caderno Científico ETLR(f1), rev14, linha 994 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P06-1); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P06-1). Originalidade externa não estabelecida.
+ 
+ 
+@@ -654,5 +656,5 @@
+ **Limite herdado:** Mudança de campo no estado enriquecido não prova individuação.
+ 
+-**Rastreabilidade:** Aplicação; referências B17. Fonte, linha 894: Caderno Científico ETLR(f1), rev14, linha 894 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P05-3); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P05-3). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B17. Fonte, linha 894: Caderno Científico ETLR(f1), rev14, linha 894 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P05-3); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P05-3). Originalidade externa não estabelecida.
+ 
+ 
+@@ -675,5 +677,5 @@
+ **Limite herdado:** Classes dependem do alfabeto e ambiente; não são indivíduos.
+ 
+-**Rastreabilidade:** Aplicação; referências B06. Fonte, linha 1004: Caderno Científico ETLR(f1), rev14, linha 1004 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P06-2); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P06-2). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B06. Fonte, linha 1004: Caderno Científico ETLR(f1), rev14, linha 1004 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P06-2); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P06-2). Originalidade externa não estabelecida.
+ 
+ 
+@@ -696,5 +698,5 @@
+ **Limite herdado:** Cardinalidade de representação, não dimensão física ou emergência.
+ 
+-**Rastreabilidade:** Aplicação; referências B06. Fonte, linha 1014: Caderno Científico ETLR(f1), rev14, linha 1014 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P06-3); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P06-3). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B06. Fonte, linha 1014: Caderno Científico ETLR(f1), rev14, linha 1014 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P06-3); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P06-3). Originalidade externa não estabelecida.
+ 
+ 
+@@ -715,5 +717,5 @@
+ **Limite herdado:** Portas fixas; não prova criação material de fronteira.
+ 
+-**Rastreabilidade:** Aplicação; referências B06 B17. Fonte, linha 1344: Caderno Científico ETLR(f1), rev14, linha 1344 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P08-5); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P08-5). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B06 B17. Fonte, linha 1344: Caderno Científico ETLR(f1), rev14, linha 1344 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P08-5); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P08-5). Originalidade externa não estabelecida.
+ 
+ 
+@@ -754,5 +756,5 @@
+ **Limite herdado:** Não diz que toda secção é invisível nem que não há intervenção informativa.
+ 
+-**Rastreabilidade:** Integração interna; referências B03 B17. Fonte, linha 1629: Caderno Científico ETLR(f1), rev14, linha 1629 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-1); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P09-1). Originalidade externa não estabelecida.
++**Rastreabilidade:** Integração interna; referências B03 B17. Fonte, linha 1629: Caderno Científico ETLR(f1), rev14, linha 1629 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-1); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P09-1). Originalidade externa não estabelecida.
+ 
+ 
+@@ -779,5 +781,5 @@
+ **Limite herdado:** Suficiente para contrato; realizabilidade da transferência e identidade ontológica não provadas.
+ 
+-**Rastreabilidade:** Aplicação; referências B09 B17. Fonte, linha 1680: Caderno Científico ETLR(f1), rev14, linha 1680 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-2); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P09-2). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B09 B17. Fonte, linha 1680: Caderno Científico ETLR(f1), rev14, linha 1680 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-2); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P09-2). Originalidade externa não estabelecida.
+ 
+ 
+@@ -800,5 +802,5 @@
+ **Limite herdado:** Elegibilidade requer evidência prévia; não resolve política universal de identidade.
+ 
+-**Rastreabilidade:** Matemática conhecida; prova elementar autônoma por equivalência e pela definição de emparelhamento. B17 é mantido no histórico da matriz, mas não localiza este argumento de identidade ou emparelhamento e não é apoio bibliográfico específico. Fonte, linha 1718: Caderno Científico ETLR(f1), rev14, linha 1718 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-3); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P09-3). Originalidade externa não estabelecida.
++**Rastreabilidade:** Matemática conhecida; prova elementar autônoma por equivalência e pela definição de emparelhamento. B17 é mantido no histórico da matriz, mas não localiza este argumento de identidade ou emparelhamento e não é apoio bibliográfico específico. Fonte, linha 1718: Caderno Científico ETLR(f1), rev14, linha 1718 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-3); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P09-3). Originalidade externa não estabelecida.
+ 
+ 
+@@ -825,5 +827,5 @@
+ **Limite herdado:** Não vale automaticamente para observação oculta adicional, informação parcial, concorrência ou Zeno.
+ 
+-**Rastreabilidade:** Integração interna; referências B15 B17. Fonte, linha 1748: Caderno Científico ETLR(f1), rev14, linha 1748 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-4); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P09-4). Originalidade externa não estabelecida.
++**Rastreabilidade:** Integração interna; referências B15 B17. Fonte, linha 1748: Caderno Científico ETLR(f1), rev14, linha 1748 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-4); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P09-4). Originalidade externa não estabelecida.
+ 
+ 
+@@ -846,5 +848,5 @@
+ **Limite herdado:** Predicado de secção é estipulado; ? não descobre verdade subjacente.
+ 
+-**Rastreabilidade:** Aplicação; referências B17. Fonte, linha 1805: Caderno Científico ETLR(f1), rev14, linha 1805 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-5); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P09-5). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B17. Fonte, linha 1805: Caderno Científico ETLR(f1), rev14, linha 1805 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-5); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P09-5). Originalidade externa não estabelecida.
+ 
+ 
+@@ -865,5 +867,5 @@
+ **Limite herdado:** Não impede equivalência decidível numa classe finita conhecida.
+ 
+-**Rastreabilidade:** Aplicação; referências B06. Fonte, linha 1825: Caderno Científico ETLR(f1), rev14, linha 1825 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-6); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P09-6). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B06. Fonte, linha 1825: Caderno Científico ETLR(f1), rev14, linha 1825 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P09-6); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P09-6). Originalidade externa não estabelecida.
+ 
+ 
+@@ -898,5 +900,5 @@
+ **Limite herdado:** Ordem ∃u∀d indispensável; não transfere a controle por interface parcial.
+ 
+-**Rastreabilidade:** Matemática conhecida; referências B05 B07. Fonte, linha 1995: Caderno Científico ETLR(f1), rev14, linha 1995 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-1); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P10-1). Originalidade externa não estabelecida.
++**Rastreabilidade:** Matemática conhecida; referências B05 B07. Fonte, linha 1995: Caderno Científico ETLR(f1), rev14, linha 1995 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-1); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-1). Originalidade externa não estabelecida.
+ 
+ 
+@@ -919,5 +921,5 @@
+ **Limite herdado:** Necessidade específica para uma reserva e condição inicial; dano não usa q no mesmo passo.
+ 
+-**Rastreabilidade:** Aplicação; referências B11 B12. Fonte, linha 2019: Caderno Científico ETLR(f1), rev14, linha 2019 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-2); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P10-2). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B11 B12. Fonte, linha 2019: Caderno Científico ETLR(f1), rev14, linha 2019 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-2); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-2). Originalidade externa não estabelecida.
+ 
+ 
+@@ -940,5 +942,5 @@
+ **Limite herdado:** Saldo final/média não bastam; teto e saturação exigem outra recorrência.
+ 
+-**Rastreabilidade:** Aplicação; referências B12 B15. Fonte, linha 2041: Caderno Científico ETLR(f1), rev14, linha 2041 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-3); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P10-3). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B12 B15. Fonte, linha 2041: Caderno Científico ETLR(f1), rev14, linha 2041 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-3); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-3). Originalidade externa não estabelecida.
+ 
+ 
+@@ -963,5 +965,5 @@
+ **Limite herdado:** Necessidade relativa ao estado/regime; retirada simultânea de distúrbios altera pergunta.
+ 
+-**Rastreabilidade:** Aplicação; referências B05 B12. Fonte, linha 2063: Caderno Científico ETLR(f1), rev14, linha 2063 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-4); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P10-4). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B05 B12. Fonte, linha 2063: Caderno Científico ETLR(f1), rev14, linha 2063 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-4); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-4). Originalidade externa não estabelecida.
+ 
+ 
+@@ -984,5 +986,5 @@
+ **Limite herdado:** Contramodelos a inferências excessivas; não refutam teorias mais ricas de fechamento.
+ 
+-**Rastreabilidade:** Integração interna; referências B10 B11 B12. Fonte, linha 2073: Caderno Científico ETLR(f1), rev14, linha 2073 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-5); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P10-5). Originalidade externa não estabelecida.
++**Rastreabilidade:** Integração interna; referências B10 B11 B12. Fonte, linha 2073: Caderno Científico ETLR(f1), rev14, linha 2073 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-5); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-5). Originalidade externa não estabelecida.
+ 
+ 
+@@ -1003,5 +1005,5 @@
+ **Limite herdado:** Etiquetas sintéticas não são evidência causal real.
+ 
+-**Rastreabilidade:** Aplicação; referências B17 B12. Fonte, linha 2083: Caderno Científico ETLR(f1), rev14, linha 2083 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-6); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P10-6). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B17 B12. Fonte, linha 2083: Caderno Científico ETLR(f1), rev14, linha 2083 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-6); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-6). Originalidade externa não estabelecida.
+ 
+ 
+@@ -1026,5 +1028,5 @@
+ **Limite herdado:** Inventário, leis, sincronismo e fronteira são estipulados; não autogeração forte.
+ 
+-**Rastreabilidade:** Integração interna; referências B10 B11 B12. Fonte, linha 2104: Caderno Científico ETLR(f1), rev14, linha 2104 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-7); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P10-7). Originalidade externa não estabelecida.
++**Rastreabilidade:** Integração interna; referências B10 B11 B12. Fonte, linha 2104: Caderno Científico ETLR(f1), rev14, linha 2104 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-7); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-7). Originalidade externa não estabelecida.
+ 
+ 
+@@ -1047,5 +1049,5 @@
+ **Limite herdado:** Alvo não vazio não garante recuperabilidade de todos os estados.
+ 
+-**Rastreabilidade:** Aplicação; referências B05 B07. Fonte, linha 2116: Caderno Científico ETLR(f1), rev14, linha 2116 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-8); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P10-8). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B05 B07. Fonte, linha 2116: Caderno Científico ETLR(f1), rev14, linha 2116 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P10-8); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P10-8). Originalidade externa não estabelecida.
+ 
+ 
+@@ -1068,5 +1070,5 @@
+ **Limite herdado:** Recuperação difere de renovação; alvo 111 pode persistir sem produção.
+ 
+-**Rastreabilidade:** Aplicação; referências B10 B11. Fonte, linha 2265: Caderno Científico ETLR(f1), rev14, linha 2265 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-1); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P11-1). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B10 B11. Fonte, linha 2265: Caderno Científico ETLR(f1), rev14, linha 2265 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-1); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-1). Originalidade externa não estabelecida.
+ 
+ 
+@@ -1101,5 +1103,5 @@
+ **Limite herdado:** SCC de tipos não basta; não prova integração de módulos, identidade nem autogeração forte.
+ 
+-**Rastreabilidade:** Aplicação; B07 e B15 são antecedentes de aceitação infinita e temporalização, não localizadores da prova SCC nem de suas cotas. O argumento acima é autônomo. Fonte, linha 2338: Caderno Científico ETLR(f1), rev14, linha 2338 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-3); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P11-3). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; B07 e B15 são antecedentes de aceitação infinita e temporalização, não localizadores da prova SCC nem de suas cotas. O argumento acima é autônomo. Fonte, linha 2338: Caderno Científico ETLR(f1), rev14, linha 2338 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-3); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-3). Originalidade externa não estabelecida.
+ 
+ 
+@@ -1122,5 +1124,5 @@
+ **Limite herdado:** Finitos tipos não implicam estado finito ou TTL uniforme; suporte estável e dormência alteram tese.
+ 
+-**Rastreabilidade:** Integração interna; referências B12 B15. Fonte, linha 2358: Caderno Científico ETLR(f1), rev14, linha 2358 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-4); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P11-4). Originalidade externa não estabelecida.
++**Rastreabilidade:** Integração interna; referências B12 B15. Fonte, linha 2358: Caderno Científico ETLR(f1), rev14, linha 2358 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-4); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-4). Originalidade externa não estabelecida.
+ 
+ 
+@@ -1155,5 +1157,5 @@
+ **Limite da evidência:** A limitação histórica de controles de um alvo é preservada na matriz. A VI05 acrescentou 14.280 comparações do monitor de duas obrigações em palavras eventualmente periódicas e 192 comparações de regiões vencedoras em produtos de oito estados, com 33.612 políticas enumeradas. A prova geral continua textual; esses universos não cobrem todos os monitores/jogos ou informação parcial.
+ 
+-**Rastreabilidade:** Aplicação; referências B07 B08. Fonte, linha 2383: Caderno Científico ETLR(f1), rev14, linha 2383 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-5); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P11-5). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B07 B08. Fonte, linha 2383: Caderno Científico ETLR(f1), rev14, linha 2383 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-5); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-5). Originalidade externa não estabelecida.
+ 
+ 
+@@ -1176,5 +1178,5 @@
+ **Limite herdado:** Minimal por inclusão não significa menor cardinalidade.
+ 
+-**Rastreabilidade:** Aplicação; referências B05 B07. Fonte, linha 2397: Caderno Científico ETLR(f1), rev14, linha 2397 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-6); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P11-6). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B05 B07. Fonte, linha 2397: Caderno Científico ETLR(f1), rev14, linha 2397 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-6); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-6). Originalidade externa não estabelecida.
+ 
+ 
+@@ -1199,5 +1201,5 @@
+ **Limite herdado:** Ciclo tipado não dá causalidade retroativa.
+ 
+-**Rastreabilidade:** Matemática conhecida; referências B16. Fonte, linha 2407: Caderno Científico ETLR(f1), rev14, linha 2407 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-7); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P11-7). Originalidade externa não estabelecida.
++**Rastreabilidade:** Matemática conhecida; referências B16. Fonte, linha 2407: Caderno Científico ETLR(f1), rev14, linha 2407 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-7); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-7). Originalidade externa não estabelecida.
+ 
+ 
+@@ -1218,5 +1220,5 @@
+ **Limite herdado:** Atribuição de identidade ainda exige política e evidência; aplicação de resultados anteriores.
+ 
+-**Rastreabilidade:** Integração interna; referências B16 B17. Fonte, linha 2411: Caderno Científico ETLR(f1), rev14, linha 2411 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-8); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-P11-8). Originalidade externa não estabelecida.
++**Rastreabilidade:** Integração interna; referências B16 B17. Fonte, linha 2411: Caderno Científico ETLR(f1), rev14, linha 2411 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-P11-8); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-P11-8). Originalidade externa não estabelecida.
+ 
+ 
+@@ -1258,5 +1260,5 @@
+ **Limite herdado:** C4 é hipótese de modelagem; não valida constituição nem informação parcial.
+ 
+-**Rastreabilidade:** Aplicação; referências B04 B17. Fonte, linha 70: ETLR-VI-02, linha 70 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-PVI02-1); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-PVI02-1). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B04 B17. Fonte, linha 70: ETLR-VI-02, linha 70 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-PVI02-1); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-PVI02-1). Originalidade externa não estabelecida.
+ 
+ 
+@@ -1281,5 +1283,5 @@
+ **Limite herdado:** Não certifica prazo físico, regime infinito ou adequação produtiva dos rótulos.
+ 
+-**Rastreabilidade:** Integração interna; referências B05 B07. Fonte, linha 83: ETLR-VI-02, linha 83 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-PVI02-2); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-PVI02-2). Originalidade externa não estabelecida.
++**Rastreabilidade:** Integração interna; referências B05 B07. Fonte, linha 83: ETLR-VI-02, linha 83 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-PVI02-2); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-PVI02-2). Originalidade externa não estabelecida.
+ 
+ 
+@@ -1308,5 +1310,5 @@
+ **Limite herdado:** Sem recíproca; seletor deve ser realizável com informação disponível; ver EVI03-02.
+ 
+-**Rastreabilidade:** Aplicação; referências B04 B05. Fonte, linha 97: ETLR-VI-02, linha 97 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-PVI02-3); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-PVI02-3). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B04 B05. Fonte, linha 97: ETLR-VI-02, linha 97 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-PVI02-3); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-PVI02-3). Originalidade externa não estabelecida.
+ 
+ 
+@@ -1329,5 +1331,5 @@
+ **Limite herdado:** Pode ser identidade; não é mínimo ontológico ou mínimo estratégico irrestrito.
+ 
+-**Rastreabilidade:** Aplicação; referências B06 B17. Fonte, linha 101: ETLR-VI-02, linha 101 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-PVI02-4); [auditoria VI05](AUDITORIA_50_RESULTADOS.html#r-PVI02-4). Originalidade externa não estabelecida.
++**Rastreabilidade:** Aplicação; referências B06 B17. Fonte, linha 101: ETLR-VI-02, linha 101 (fonte histórica em acervo privado); [ficha completa](MATRIZ_RASTREABILIDADE_50_RESULTADOS.html#r-PVI02-4); [auditoria VI05](../edicao_1_0_candidata/AUDITORIA_50_RESULTADOS.html#r-PVI02-4). Originalidade externa não estabelecida.
+ 
+ 
+@@ -1349,4 +1351,6 @@
+ ## 11. Síntese científica, contribuição e limites
+ 
++A ETLR investiga se uma estrutura organizada a partir dos fundamentos relacionais de espaço, tempo e indivíduo, mediante suas diferentes composições, funções e transformações multiescalares, é capaz de produzir conhecimento sobre princípios comuns de constituição, interação e organização em diferentes domínios da realidade. Os resultados deste volume constituem instrumentos formais e confrontos delimitados desse programa. Sua articulação permite examinar tarefas relacionais comuns em modelos declarados, mas não demonstra que todos os domínios compartilhem uma única constituição. A ETLR não pretende substituir teorias particulares de domínio; analogias físicas ou de gauge não integram suas premissas.
++
+ O volume estabelece uma arquitetura de obrigações que começa com referência e descrição, passa por composição e representação suficiente e termina com conservação de garantias em jogos declarados. Seu resultado integrador é o transporte exato de segurança, alcance e recorrência mediante um quociente que conserva escolhas e resultados rotulados. Quando equivalência é excessiva, o refinamento unilateral oferece uma condição suficiente de implementação. Esses resultados compartilham matemática estabelecida; seu uso articulado na investigação ETLR é a contribuição interna candidata.
+ 
+@@ -1367,4 +1371,6 @@
+ ### 12.1 Base exata e cadeia documental
+ 
++A presente candidata de revisão editorial parte dos bytes da edição 1.0 CANDIDATA no commit ec3c63bc6687d1116c73d74612915fc702433090. A identificação 1.1 CANDIDATA é proposta para avaliação autoral. A edição 1.0 e o DOI 10.5281/zenodo.24586496 permanecem referências históricas distintas deste PDF revisado. As descrições de auditoria e execução a seguir registram as etapas históricas; não anunciam sua repetição nesta revisão editorial.
++
+ A base documental da revisão VI05 foi a edição VI04, com as matrizes e os antecedentes VI00–VI03. A conferência histórica de tamanho, checksums e membros do acervo privado não identificou divergências. Integridade documental não equivale a validação científica. Esta seleção pública conserva identificadores, localizadores bibliográficos e condições dos argumentos; os documentos internos completos permanecem separados.
+ 
+@@ -1391,5 +1397,5 @@
+ ### 12.5 Artefatos, apresentação e preservação
+ 
+-A edição possui Markdown e HTML com conteúdo integral, estilos locais, sumário e âncoras de resultados, definições e provas, acompanhados de glossário, índices, matriz, auditoria individual, erratas, registro bibliográfico e inventário de questões abertas. O delta editorial desta seleção é descrito no CHANGELOG; o diff detalhado e os originais ficam preservados no acervo privado. O PDF deriva do mesmo HTML, com paginação e verificações próprias. Os resultados da extração, renderização e inspeção da edição pública estão em VERIFICACAO_FORMATOS.json; nenhuma aprovação científica deve ser inferida apenas dessas verificações de apresentação.
++A base 1.0 possui Markdown e HTML integrais, estilos locais, sumário, âncoras, glossário, índices, matriz, auditoria individual, erratas, registro bibliográfico e questões abertas. Nesta revisão editorial, o PDF candidato deriva do HTML local correspondente; o diff focal, os hashes e as verificações da candidata são entregues separadamente. Os registros CHANGELOG e VERIFICACAO_FORMATOS.json da base descrevem a edição 1.0 e não certificam este PDF revisado. A atualização pública dos derivados indispensáveis depende de autorização específica, preservando os resultados, os campos científicos da matriz e a identidade da versão depositada. Nenhuma aprovação científica é inferida das verificações de apresentação.
+ 
+ Os 870 arquivos históricos anteriores à VI05 permanecem preservados no acervo privado. Esta edição pública candidata é uma seleção editorial separada, com manifesto próprio. Integridade não é homologação científica. A preparação não implica publicação, modificação de motores ou repositórios, nem início de Volume II.
+@@ -2015,5 +2021,5 @@
+ PM-01, versão 1.0 de 24/11/2026, §2.2, §§2.3–4; ETLR-00-f2, §§I–VI; Caderno Científico ETLR(f1), rev14, abertura e capítulos 00–11; ETLR-VI-00, §§3–10 e inventários; ETLR-VI-01, definições, matriz de 46 resultados, divergências e hipóteses; ETLR-VI-02, §§3–7 e PVI02.1–4; laudo, matriz individual e bibliografia VI03. Essas fontes autorais e documentais integram o acervo histórico privado, não distribuído integralmente neste pacote. Os localizadores textuais permitem reconhecer a proveniência sem expor caminhos internos. A R4 é fonte genealógica candidata, não substituição da cadeia científica. Os projetos privados e os 44 capítulos históricos referenciados não recebem certificação integral por essa remissão.
+ 
+-**Encerramento do primeiro ciclo:** ETLR-VI-05 constituída como primeira edição científica 1.0 CANDIDATA, revista internamente nas perspectivas matemática, epistemológica/ontológica e científica/editorial/bibliográfica. Permanecem apreciação autoral e avaliação externa, sem homologação presumida. A preparação editorial VI06A não implica publicação externa, execução de motores ou início de Volume II.
++**Registro histórico do encerramento do primeiro ciclo (edição 1.0):** ETLR-VI-05 constituída como primeira edição científica 1.0 CANDIDATA, revista internamente nas perspectivas matemática, epistemológica/ontológica e científica/editorial/bibliográfica. Permanecem apreciação autoral e avaliação externa, sem homologação presumida. A preparação editorial VI06A não implica publicação externa, execução de motores ou início de Volume II. A revisão editorial candidata 1.1 explicita a finalidade investigativa sem reabrir esse ciclo matemático.
+ 
+ ## Apêndice D. Candidatos históricos de integridade e sustentação
+@@ -2069,5 +2075,5 @@
+ 
+ 
+-## Apêndice E. Revisão crítica interna e estatuto da edição 1.0
++## Apêndice E. Revisão crítica interna e estatuto histórico da edição 1.0
+ 
+ ### E.1 Perspectiva matemática
+@@ -2115,5 +2121,5 @@
+ Os controles reproduzidos são execuções reais de programas sintéticos em cópias temporárias. O controle novo de duas obrigações amplia a evidência sobre monitor e produto em universos pequenos explicitados. Uma prova textual, uma comparação computacional e uma aplicação empírica são evidências de tipos diferentes. As contagens não são somadas para criar uma impressão de população científica ampliada; jogos amostrados e palavras enumeradas são relatados separadamente. Não houve avaliação externa independente por matemático, filósofo ou editor humano.
+ 
+-O primeiro ciclo editorial-científico encerra-se com esta edição 1.0 **CANDIDATA**, seus pareceres internos, erratas e perguntas abertas. A autorização da autora para executá-lo está registrada; aprovação autoral do conteúdo final, homologação externa, publicação e abertura de outro volume não são inferidas desse encerramento.
++O primeiro ciclo editorial-científico encerrou-se com a edição 1.0 **CANDIDATA**, seus pareceres internos, erratas e perguntas abertas. A autorização da autora para executá-lo está registrada; aprovação autoral do conteúdo final, homologação externa, publicação e abertura de outro volume não são inferidas desse encerramento. Esse registro histórico não constitui aprovação da revisão editorial candidata 1.1.
+ 
+ ## Apêndice F. Questões abertas e condições para avaliação externa

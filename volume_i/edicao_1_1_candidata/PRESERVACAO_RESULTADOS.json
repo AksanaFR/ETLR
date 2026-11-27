@@ -1,0 +1,473 @@
+{
+  "base_commit": "ec3c63bc6687d1116c73d74612915fc702433090",
+  "resultados": [
+    {
+      "id": "P02.1",
+      "classe": "Matemática conhecida",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "88d4c074cd3ce2352802175557ef6a37a1ae730a9b34b06224104b3dc422c2b8",
+      "sha256_bloco_1_1": "183acfe1bd2937f28d9f952ff8fef88b79679a29bbe20a7a8073e4908e2cd083",
+      "ancora_resultado": "r-P02-1",
+      "ancora_prova": "prova-P02-1"
+    },
+    {
+      "id": "P02.2",
+      "classe": "Matemática conhecida",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "1bd240c97e613d74f3ca3904db200ec426f00384a10a8bbe92dd94ec88dffb1a",
+      "sha256_bloco_1_1": "16823fcdeec3d9092aab1bc21b4604634a11de5f942a97c339af66716517488e",
+      "ancora_resultado": "r-P02-2",
+      "ancora_prova": "prova-P02-2"
+    },
+    {
+      "id": "P02.3",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "a7ae081333905d21e37a427c1a527a8f68d413fea403330077eec36e7b73d25a",
+      "sha256_bloco_1_1": "bfb6924762958acc12b86b4893c7aa39cfc0c23654b5ed78d89efdc0c63848b5",
+      "ancora_resultado": "r-P02-3",
+      "ancora_prova": "prova-P02-3"
+    },
+    {
+      "id": "P03.1",
+      "classe": "Matemática conhecida",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "2a2cff239e05d009714f3611d45d19b755328370bf872138f0a56a6a57756e73",
+      "sha256_bloco_1_1": "9b8aa0417825c72309b4fe2f999af25013ee80fbaa296cbeb071ec1e1c7ce79a",
+      "ancora_resultado": "r-P03-1",
+      "ancora_prova": "prova-P03-1"
+    },
+    {
+      "id": "P03.2",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "da69fdaafb6d41e40530cc9b1590d6c5f3cea40f2c4c4458bbfc596074153bc0",
+      "sha256_bloco_1_1": "78485cbf016543921cdb3cbc19d1aafeb50bae8c7ec013848cf7ad5e71c30dc1",
+      "ancora_resultado": "r-P03-2",
+      "ancora_prova": "prova-P03-2"
+    },
+    {
+      "id": "P04.1",
+      "classe": "Matemática conhecida",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "d21670b27e2ca129008c2ca88025c68d260c6e39419824d31574da24becbae3f",
+      "sha256_bloco_1_1": "29feff146df5a6f8e6afe7fa60a9235a17c79de20364f19c490db5e5d5c02c15",
+      "ancora_resultado": "r-P04-1",
+      "ancora_prova": "prova-P04-1"
+    },
+    {
+      "id": "P04.2",
+      "classe": "Matemática conhecida",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "f5ddfb0d2cf85ee3bafa2133dee7ac41418f83e1e1e9b5b36d247cda9c7110d9",
+      "sha256_bloco_1_1": "71ef13caa2c07833ba36f97d973e1d1cf309d8770b6660d28e431bb1e4d12637",
+      "ancora_resultado": "r-P04-2",
+      "ancora_prova": "prova-P04-2"
+    },
+    {
+      "id": "P05.1",
+      "classe": "Matemática conhecida",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "aa28c8bcb2ae93a16ad7540b403e8d77dea9de358bd8c53d753c308b77eb0b03",
+      "sha256_bloco_1_1": "c1a4f0f1b62663060909e3b371c5bd9fe88c490ca149ce9c6aef497ac0ef26f1",
+      "ancora_resultado": "r-P05-1",
+      "ancora_prova": "prova-P05-1"
+    },
+    {
+      "id": "P05.2",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "b2819d2a57fa068356014e1b9dab9615d6d4cfee2d0f84c4b7a362b66c1e3988",
+      "sha256_bloco_1_1": "b8fe06f7e85bb9805ff612217236f03d04de13ffaf28186b0f87985b01fa83e8",
+      "ancora_resultado": "r-P05-2",
+      "ancora_prova": "prova-P05-2"
+    },
+    {
+      "id": "P05.3",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "1127f1e5a7c9edaca8aee1924e5361d5491a54ab2861fc6bc7eacd04db7c888e",
+      "sha256_bloco_1_1": "5983272461ee6198b076e25d16e624d67018047c13c31c480c8c39057fed4b40",
+      "ancora_resultado": "r-P05-3",
+      "ancora_prova": "prova-P05-3"
+    },
+    {
+      "id": "P06.1",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "f75ad3f2ea31fbab584d98eb5d0b28e98b9a4cecfdc6e2792f1badd826fb7a04",
+      "sha256_bloco_1_1": "bd966a7fc19b5592b1eb28369a3bca4d3f5bb1d6fe37f4442a7ad720941637b9",
+      "ancora_resultado": "r-P06-1",
+      "ancora_prova": "prova-P06-1"
+    },
+    {
+      "id": "P06.2",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "0f37c997b0e43f08929090f91de3718a40f2f17539383ee2c8166d066e80e301",
+      "sha256_bloco_1_1": "4b03f5c4a2876b6d538773b4a9b9be598c73e4b4b8f783b145f109653f6cb976",
+      "ancora_resultado": "r-P06-2",
+      "ancora_prova": "prova-P06-2"
+    },
+    {
+      "id": "P06.3",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "7ecafcc6e999740b752425f78526b732ab96e45f40f91a4532987b7d2d5a0eb0",
+      "sha256_bloco_1_1": "8d2d4fb4c83ccea30d8e4066a8c6eeb3bf925a6398cc5dd4c1668a9757d07ad1",
+      "ancora_resultado": "r-P06-3",
+      "ancora_prova": "prova-P06-3"
+    },
+    {
+      "id": "P06.4",
+      "classe": "Matemática conhecida",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "6b2f584ba026714f93126747fa17be59de421166a296319210fc7cb1f48f85eb",
+      "sha256_bloco_1_1": "eac9e2d123d8c2861cc7c711b764e749bd916436f37f70c644aa7817a413b4bc",
+      "ancora_resultado": "r-P06-4",
+      "ancora_prova": "prova-P06-4"
+    },
+    {
+      "id": "P07.1",
+      "classe": "Matemática conhecida",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "3029227c0243bbb9b3068d9736f162d5400a9d26605b940e3be43997c96f42dd",
+      "sha256_bloco_1_1": "d1e366947c121689a7e066d85dfb454b723dd6ba82958cb0b3f531f80946e264",
+      "ancora_resultado": "r-P07-1",
+      "ancora_prova": "prova-P07-1"
+    },
+    {
+      "id": "P07.2",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "5cb9ff3cfaeb8f204b4a6cd5f2b4ac30574561f63f4a1686e2f957b98a92c84f",
+      "sha256_bloco_1_1": "4b3544fb9f2844870443b761d1a0e47852b01367952d8ce121fb1e4ed826547d",
+      "ancora_resultado": "r-P07-2",
+      "ancora_prova": "prova-P07-2"
+    },
+    {
+      "id": "P07.3",
+      "classe": "Integração interna",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "601426534143ae44fc7d8103b38204e584b5d2189fa1ed2e12539b60abc78a2f",
+      "sha256_bloco_1_1": "6531f30ee5dd94823a0dcce4164842e550f68ebd8066562dfd678e4e0e99b797",
+      "ancora_resultado": "r-P07-3",
+      "ancora_prova": "prova-P07-3"
+    },
+    {
+      "id": "P08.1",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "7cca949aeb54eabfb2c02dc617addc8f6aa2e922ccb5fc97ddc6eba400ea6e24",
+      "sha256_bloco_1_1": "56eecb12a7a094f61eb108592abfc70edcde4dcb9f1ca59122bd4d4ff0a43756",
+      "ancora_resultado": "r-P08-1",
+      "ancora_prova": "prova-P08-1"
+    },
+    {
+      "id": "P08.2",
+      "classe": "Integração interna",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "ff44cd3930887b8ee1323069415123574c6457444eca64ab38edc2435c9e2158",
+      "sha256_bloco_1_1": "f6e4ed477a64958bb8c45d8b3bac5b324c46b559f44bf7a8c1e4c2baa676c390",
+      "ancora_resultado": "r-P08-2",
+      "ancora_prova": "prova-P08-2"
+    },
+    {
+      "id": "P08.3",
+      "classe": "Matemática conhecida",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "26512806440b12de458ee8457aad9cd8257abb63e657399ae3b39448c0962e12",
+      "sha256_bloco_1_1": "064ad6fdfc33e8f6040dc681eb06c8bb9c29261283e328d51d5ce9c09c9f6253",
+      "ancora_resultado": "r-P08-3",
+      "ancora_prova": "prova-P08-3"
+    },
+    {
+      "id": "P08.4",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "933bf611476e5595314d8b697448f43ae4f8e0b598075ef3762db782b9cf25fb",
+      "sha256_bloco_1_1": "945aa8fd9d86460e34a2b248bfc240791182311666ed08252915c4b63547de32",
+      "ancora_resultado": "r-P08-4",
+      "ancora_prova": "prova-P08-4"
+    },
+    {
+      "id": "P08.5",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "9da2c9ac552d900fb33a2ce7bb4177f11a46df914ab382cf9e0cd477ee82dd9b",
+      "sha256_bloco_1_1": "0fa9550b7f2897aed70d34ba99869bac904230755afcf6eac46e3d8e6175ae35",
+      "ancora_resultado": "r-P08-5",
+      "ancora_prova": "prova-P08-5"
+    },
+    {
+      "id": "P09.1",
+      "classe": "Integração interna",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "f49f11b46d120fe11bb2627084c5d20e3d0dff8598fed0e6268ef037e9bf11f7",
+      "sha256_bloco_1_1": "aa0fd6e77e1a25d299627ab09815b782803f616f9d842526be739048ec06b2aa",
+      "ancora_resultado": "r-P09-1",
+      "ancora_prova": "prova-P09-1"
+    },
+    {
+      "id": "P09.2",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "91d5320086fbac67400bb5b1183843228181f613587047fe8bbbbb9b04b63e2d",
+      "sha256_bloco_1_1": "61309b528889567d4c4b681cad3bc1126104deaab593373da6a323827064d220",
+      "ancora_resultado": "r-P09-2",
+      "ancora_prova": "prova-P09-2"
+    },
+    {
+      "id": "P09.3",
+      "classe": "Matemática conhecida",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "64316216621234cf929be27f736babe71aee8a27855934f3d8c0a00994fdd551",
+      "sha256_bloco_1_1": "bdb1cf1a61833db384612e615d3db5f4d0d9ca9995df678d73d30b6d6e291f79",
+      "ancora_resultado": "r-P09-3",
+      "ancora_prova": "prova-P09-3"
+    },
+    {
+      "id": "P09.4",
+      "classe": "Integração interna",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "de12de3360a93c4b1dc3e8043aba1a048993571c5f08a2f983ec573d04b2367e",
+      "sha256_bloco_1_1": "fffd03102c3e3125f77b5b9eb150cb404fd43619a54c32fff0c9f018f26f1683",
+      "ancora_resultado": "r-P09-4",
+      "ancora_prova": "prova-P09-4"
+    },
+    {
+      "id": "P09.5",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "4e75f55428a69343ba31061bba68800cdef5c05244e26c947dfd4f35bee4572d",
+      "sha256_bloco_1_1": "e6d797fe8059632395cf1019e518bf2c4e24b3405daabb192ab3c3b3d78463f6",
+      "ancora_resultado": "r-P09-5",
+      "ancora_prova": "prova-P09-5"
+    },
+    {
+      "id": "P09.6",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "68f7b1c5ffc7cac1a715c8b23fb70a11c2dffc07a9eabbc1ea24dabd7f712648",
+      "sha256_bloco_1_1": "ab6198dad8e3b031adaece9716272ec164a6829616425b1a531e478d21a1c23a",
+      "ancora_resultado": "r-P09-6",
+      "ancora_prova": "prova-P09-6"
+    },
+    {
+      "id": "P10.1",
+      "classe": "Matemática conhecida",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "aaa0784c40627ff54c667367a69685817ce0992edfb121cc4633c07f41bb35d3",
+      "sha256_bloco_1_1": "e796bccab090a78d3abd4d799d01fed994569e9e9f9f461c6942aead8bd42e1b",
+      "ancora_resultado": "r-P10-1",
+      "ancora_prova": "prova-P10-1"
+    },
+    {
+      "id": "P10.2",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "ed32c4f8d1d022d45b3bea000f592e441fca70aa195b07df770482d68c7c0598",
+      "sha256_bloco_1_1": "ee8c79239aa6167a6c8a9faa29942c71eeb2653d33f93c12970de3e48c81cdce",
+      "ancora_resultado": "r-P10-2",
+      "ancora_prova": "prova-P10-2"
+    },
+    {
+      "id": "P10.3",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "242290e5e327609a9b37b106cc07c5151d725983cc149def95532121564bd9d6",
+      "sha256_bloco_1_1": "c7920153915edb817cd6ba1e79df9d43399b6144658195c3c4c4df6a3cf1cea9",
+      "ancora_resultado": "r-P10-3",
+      "ancora_prova": "prova-P10-3"
+    },
+    {
+      "id": "P10.4",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "5c9767cb92a3698a1893143c032c98eed0c969edb3720728210c5bc38b07430d",
+      "sha256_bloco_1_1": "e15be978853e23f853ff15a3a398f6fdca47f905fc39a993411e5e4a3b3baaad",
+      "ancora_resultado": "r-P10-4",
+      "ancora_prova": "prova-P10-4"
+    },
+    {
+      "id": "P10.5",
+      "classe": "Integração interna",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "a978cf3c69dd5559e686adff1a8d45971fbbd5d10b0766f5be50a93a27b8233e",
+      "sha256_bloco_1_1": "df896ab51ee4e5e60ae6d18b8807882a183d4a34330da8e11b0bd0f7878a94d8",
+      "ancora_resultado": "r-P10-5",
+      "ancora_prova": "prova-P10-5"
+    },
+    {
+      "id": "P10.6",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "b5d5f03994a89b32e46b0e210108a631d95980681fa44d04d40a38e69a27636b",
+      "sha256_bloco_1_1": "d0ed8a7ba6bfd0fe6c6c6037da76ec7f84b60cdea8e40ec8c6404cdd07bab842",
+      "ancora_resultado": "r-P10-6",
+      "ancora_prova": "prova-P10-6"
+    },
+    {
+      "id": "P10.7",
+      "classe": "Integração interna",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "e73548f696e968df1eb113d20122c3ad382f7446196dabe6211d6876078937b6",
+      "sha256_bloco_1_1": "8a1820f432fafaf627f38269c8081c45926dc184f6f7ce3f7c0e5423b71d9e9f",
+      "ancora_resultado": "r-P10-7",
+      "ancora_prova": "prova-P10-7"
+    },
+    {
+      "id": "P10.8",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "88f8f3a00227c816c1398586566ab7cfbc87a5d4b9a75b0831969e5b2cef4ce3",
+      "sha256_bloco_1_1": "6c2cf39f94c7e1d38f00b540451259c0ff704b275940b43277f2eff2ba52e16f",
+      "ancora_resultado": "r-P10-8",
+      "ancora_prova": "prova-P10-8"
+    },
+    {
+      "id": "P11.1",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "dd5ac0d611d74f1b65305407f8bdf65dadc8baf1fc23af626a27bfa49c3a0105",
+      "sha256_bloco_1_1": "e53829c81aef9a927869e082e5831d0e669dca05360180812ca178ef64bd0a8a",
+      "ancora_resultado": "r-P11-1",
+      "ancora_prova": "prova-P11-1"
+    },
+    {
+      "id": "P11.2",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "8ac49fad04e28660dec3b33e862b92c693a871efe84b93006943e89064f90961",
+      "sha256_bloco_1_1": "da70e54b740cd73a4e8019b4a471b01b76e4936d1566fe285123924fa33d54f3",
+      "ancora_resultado": "r-P11-2",
+      "ancora_prova": "prova-P11-2"
+    },
+    {
+      "id": "P11.3",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "673c8ce8edd4f6c4258bd309d76004e41444e074c5f138668851420ae50a0c27",
+      "sha256_bloco_1_1": "26c36d97da58dd31149961e211ed2ba64da9e9ad9cbef6b51918d92f7091731b",
+      "ancora_resultado": "r-P11-3",
+      "ancora_prova": "prova-P11-3"
+    },
+    {
+      "id": "P11.4",
+      "classe": "Integração interna",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "bf36c94fa1160d37ee8a826296c0e7330793b9a711fc9d5261d36204660bebce",
+      "sha256_bloco_1_1": "86731f272589734aa6be9259aea6f52aa071ec252948c3a50b7aa4c2c288442f",
+      "ancora_resultado": "r-P11-4",
+      "ancora_prova": "prova-P11-4"
+    },
+    {
+      "id": "P11.5",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "e48a56e564144d7e2ac7ded2d4b965427de8ed1f4003e946f2c0e6a59654e10f",
+      "sha256_bloco_1_1": "6c7f59f875c66c2657061b5ec5e02d8072912d8139e44d9104fc2205d097e1b4",
+      "ancora_resultado": "r-P11-5",
+      "ancora_prova": "prova-P11-5"
+    },
+    {
+      "id": "P11.6",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "ffabc0ba7ff225d159e623c6a287f398c68175a994f58bce8158bd2e2d7c0407",
+      "sha256_bloco_1_1": "e058cdef64f1616625b2451d9c79d3b6e0ff38e198c63853504e545c3d3dcff8",
+      "ancora_resultado": "r-P11-6",
+      "ancora_prova": "prova-P11-6"
+    },
+    {
+      "id": "P11.7",
+      "classe": "Matemática conhecida",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "83e44f4b7f97704acaa0f11849068911e9cc35a138bcc693c4e1f052408c202d",
+      "sha256_bloco_1_1": "2ad301c5614a2fa67cc639ffd11ee0bd24b902dbccc74ff2fb27fbe8d0c2e34c",
+      "ancora_resultado": "r-P11-7",
+      "ancora_prova": "prova-P11-7"
+    },
+    {
+      "id": "P11.8",
+      "classe": "Integração interna",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "bbe83e55505540ef90bdb9d7b284e42f31f43e22b9eede398c269fabb9b66795",
+      "sha256_bloco_1_1": "ff3c7cabfebbc896c9de205eea59d79fc9d4da0ecbef76c99c1d09df8430203e",
+      "ancora_resultado": "r-P11-8",
+      "ancora_prova": "prova-P11-8"
+    },
+    {
+      "id": "VI00-U00",
+      "classe": "Integração interna",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "00741991d9199c3e454b8e6d2f5deac2c2be21a0af1bfe80d517b2fc76ec9003",
+      "sha256_bloco_1_1": "8ff1d7827e02ce1941b8b544c237b332faaf333d47a1aa41784dafde157d4501",
+      "ancora_resultado": "r-VI00-U00",
+      "ancora_prova": "prova-VI00-U00"
+    },
+    {
+      "id": "VI00-U01",
+      "classe": "Integração interna",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "fd83451afd66c7008f8a97c5bcdf6f55611f793c78f1e109d6cce9045771fed3",
+      "sha256_bloco_1_1": "f190c6b8d26c4ed0dacb6f969eca96272014ec0e349658f25072f9f84c5007ce",
+      "ancora_resultado": "r-VI00-U01",
+      "ancora_prova": "prova-VI00-U01"
+    },
+    {
+      "id": "PVI02.1",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "d9071d6212d35c66e52d099092d3722005270e94aa7136c866198edceaec12e0",
+      "sha256_bloco_1_1": "67ebd9c72b401b7e2a8341043bd66868282b2077e518b67795c7960a6a39efa2",
+      "ancora_resultado": "r-PVI02-1",
+      "ancora_prova": "prova-PVI02-1"
+    },
+    {
+      "id": "PVI02.2",
+      "classe": "Integração interna",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "3ace777d89545484bb8a0ea445ad0c884c821795e8f83ae0447ebdf2108bf930",
+      "sha256_bloco_1_1": "158e7b986289a82fbfbebae7ac8e2366b45d016a479059e4e59cfd204c0f6af7",
+      "ancora_resultado": "r-PVI02-2",
+      "ancora_prova": "prova-PVI02-2"
+    },
+    {
+      "id": "PVI02.3",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "b88d25fb4cbe695f2e2fc622d3a0e134d0e661562690e65868a643abbdeeb4d0",
+      "sha256_bloco_1_1": "883f0a56ab66e3e057598e6fb511e6e142691b24fc33cf0bb200f6de39b4b5ec",
+      "ancora_resultado": "r-PVI02-3",
+      "ancora_prova": "prova-PVI02-3"
+    },
+    {
+      "id": "PVI02.4",
+      "classe": "Aplicação",
+      "conteudo_integral_preservado_exceto_destinos_de_links": true,
+      "sha256_bloco_1_0": "e50b5aee6a677d64b654f31ec8dae65dd77aadb6b79115e9a159b431b5e511b3",
+      "sha256_bloco_1_1": "8cc0f58edd8f098ee423e2c1ecdfd0816ba5b7e7aba43ac48e8625d5562a5fac",
+      "ancora_resultado": "r-PVI02-4",
+      "ancora_prova": "prova-PVI02-4"
+    }
+  ],
+  "classificacoes": {
+    "Matemática conhecida": 12,
+    "Aplicação": 27,
+    "Integração interna": 11
+  },
+  "ajuste_navegacao": "Somente destinos de links relativos; texto, premissas, provas, contraexemplos, limites, IDs e campos científicos da matriz preservados. Não se afirma igualdade bruta dos blocos MD após a mudança de links.",
+  "pdf_exatamente_igual_ao_candidato_avaliado": false,
+  "sha256_pdf": "41437142c6c56e1c828aaaab0d9b3162fe17304b6c7040884fc718587d0cf922",
+  "cal_01_e_hip_cic_preservados": true,
+  "nova_execucao_cientifica": false,
+  "origem_tríade_causalidade_sincronicidade_continuidade": "Não atribuída",
+  "ETLR_00_f2": "Sem nova incorporação; referência histórica preexistente conservada",
+  "correcao_pdf": {
+    "links": 120,
+    "conteudo_por_pagina_identico": true,
+    "renderizacao_pixels_identicos_98_paginas_55dpi": true,
+    "registro": "CORRECAO_LINKS_PDF.json"
+  }
+}

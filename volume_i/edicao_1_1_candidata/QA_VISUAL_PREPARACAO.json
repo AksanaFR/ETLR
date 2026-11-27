@@ -1,0 +1,27 @@
+{
+  "sha256_pdf": "74840e8e4d692cd74d4ad231ae6d1f22f8ea9db1f00e008504d2b8f9dd93bcbc",
+  "metodo": "Inspeção visual assistida por IA das 98 páginas nas sete folhas de contato a 55 dpi e dos detalhes listados a 110 dpi. Não é parecer humano externo.",
+  "contatos_examinados": [
+    "contato_001_016.jpg",
+    "contato_017_032.jpg",
+    "contato_033_048.jpg",
+    "contato_049_064.jpg",
+    "contato_065_080.jpg",
+    "contato_081_096.jpg",
+    "contato_097_098.jpg"
+  ],
+  "detalhes_examinados": [
+    1,
+    6,
+    9,
+    47,
+    54,
+    61,
+    62,
+    93,
+    98
+  ],
+  "resultado": "Sem cortes, sobreposições, glifos ilegíveis ou tabelas quebradas detectados no alcance examinado. Cabeçalhos repetidos e rodapés consistentes. Quebras de capítulo preservadas. A abertura recebeu ajuste de fonte/entrelinha para manter resumo e palavras-chave juntos.",
+  "paginas": 98,
+  "limite": "A inspeção global por contato não equivale a leitura ampliada de cada linha; os detalhes cobrem abertura, hipóteses, CAL-01, provas P11.5/PVI02.4, matriz e índices."
+}
