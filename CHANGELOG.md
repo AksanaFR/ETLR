@@ -1,5 +1,11 @@
 # Alterações da distribuição pública ETLR
 
+## Coerência da página inicial do GitHub Pages — 28 de novembro de 2026
+
+- Atualiza para 1.1 CANDIDATA o título do navegador, o cabeçalho e o aviso científico que ainda indicavam 1.0. Os links principais já apontavam para a 1.1.
+- Inclui literalmente a finalidade investigativa aprovada no bloco de apresentação do programa de pesquisa. Preserva as referências históricas da 1.0 e os respectivos DOI.
+- Não altera manuscritos, PDFs, resultados científicos ou dados da matriz. Atualiza o manifesto da distribuição apenas para os dois arquivos de apresentação modificados.
+
 ## Volume I — revisão editorial 1.1 CANDIDATA
 
 - Publica a revisão editorial autorizada em `volume_i/edicao_1_1_candidata/`, mantendo intacta a edição 1.0 do commit `ec3c63bc6687d1116c73d74612915fc702433090`.
